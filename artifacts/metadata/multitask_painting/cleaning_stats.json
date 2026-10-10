@@ -1,0 +1,22 @@
+{
+ "n_raw": 99816,
+ "n_unreadable": 0,
+ "n_after_clean": 98954,
+ "n_exact_duplicate_images": 566,
+ "n_near_duplicate_pairs": 869,
+ "n_near_pairs_identical_phash": 502,
+ "n_dup_groups_multi": 681,
+ "max_dup_group_size": 12,
+ "near_duplicate_max_hamming": 4,
+ "version": "d39fde83cabf",
+ "reason_counts": {
+  "near_duplicate_of": 373,
+  "exact_duplicate_of": 258,
+  "near_duplicate_group_conflicting_artist": 140,
+  "near_duplicate_group_conflicting_genre": 39,
+  "exact_duplicate_group_conflicting_artist": 32,
+  "exact_duplicate_group_conflicting_style": 31,
+  "near_duplicate_group_conflicting_style": 28,
+  "exact_duplicate_group_conflicting_genre": 26
+ }
+}

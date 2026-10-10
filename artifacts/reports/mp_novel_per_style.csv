@@ -1,0 +1,125 @@
+style,n_images,n_artists,n_missing_artist,n_genres,n_missing_genre,top_genre_share
+surrealism,3718,132,0,28,5,0.382
+romanticism,2872,109,0,25,1,0.247
+neoclassicism,1956,45,0,24,2,0.349
+realism,1733,121,0,23,0,0.239
+expressionism,1623,146,0,29,2,0.202
+art nouveau (modern),1153,68,0,25,0,0.42
+impressionism,1140,107,0,22,1,0.328
+art informel,1125,80,0,17,0,0.838
+magic realism,931,18,0,23,1,0.497
+abstract art,915,93,0,13,0,0.944
+academicism,898,47,0,17,1,0.288
+post-impressionism,800,84,0,23,0,0.236
+naïve art (primitivism),768,41,0,23,4,0.209
+rococo,743,39,0,23,0,0.668
+baroque,713,53,0,20,1,0.33
+art deco,642,15,0,18,1,0.406
+concretism,532,35,0,6,0,0.983
+neo-romanticism,531,6,0,21,0,0.232
+lyrical abstraction,494,35,0,9,0,0.935
+op art,468,31,0,11,0,0.562
+ink and wash painting,467,17,0,19,0,0.285
+abstract expressionism,436,57,0,19,0,0.718
+tachisme,418,26,0,4,0,0.971
+naturalism,402,7,0,8,0,0.405
+symbolism,388,54,0,22,0,0.147
+shin-hanga,376,12,0,15,0,0.207
+luminism,373,6,0,10,1,0.836
+neo-expressionism,367,19,0,17,0,0.463
+orientalism,348,29,0,18,0,0.563
+sōsaku hanga,340,9,0,17,0,0.326
+hard edge painting,331,27,0,4,0,0.988
+divisionism,319,16,0,15,1,0.487
+regionalism,312,7,0,17,0,0.689
+ukiyo-e,292,11,0,16,0,0.38
+proto renaissance,271,2,0,2,0,0.948
+precisionism,265,7,0,18,0,0.245
+futurism,265,18,0,19,1,0.258
+american realism,265,2,0,8,0,0.664
+social realism,263,24,0,14,0,0.555
+orphism,237,9,0,15,0,0.321
+constructivism,236,28,0,13,0,0.419
+cubism,236,54,0,18,1,0.255
+minimalism,233,35,0,3,0,0.991
+color field painting,221,38,0,2,0,0.995
+classicism,213,4,0,14,1,0.34
+fauvism,203,26,0,13,0,0.281
+tenebrism,198,8,0,9,0,0.646
+northern renaissance,198,17,0,14,1,0.533
+international gothic,194,3,0,6,0,0.763
+tonalism,182,9,0,14,0,0.56
+metaphysical art,182,17,0,16,0,0.225
+cloisonnism,167,11,0,16,0,0.419
+dada,163,24,0,15,0,0.46
+art brut,161,8,0,13,0,0.497
+neoplasticism,154,10,0,7,0,0.727
+muralism,143,7,0,14,0,0.322
+purism,135,7,0,14,0,0.311
+cubo-futurism,134,13,0,17,0,0.254
+mannerism (late renaissance),132,13,0,11,0,0.538
+biedermeier,130,2,0,7,0,0.823
+pop art,124,32,0,16,0,0.323
+post-painterly abstraction,124,7,0,1,0,1.0
+nouveau réalisme,116,9,0,7,0,0.716
+intimism,109,3,0,7,0,0.376
+neo-baroque,105,2,0,15,0,0.181
+neo-dada,96,8,0,13,0,0.385
+neo-rococo,94,1,0,2,0,0.989
+analytical realism,89,1,0,8,0,0.326
+socialist realism,87,12,0,12,0,0.437
+verism,84,7,0,8,0,0.524
+suprematism,78,6,0,9,0,0.436
+japonism,77,18,0,14,0,0.299
+byzantine,77,4,0,2,0,0.896
+spatialism,75,10,0,2,0,0.987
+transautomatism,73,1,0,2,0,0.808
+mechanistic cubism,68,1,0,5,1,0.537
+conceptual art,65,16,0,5,0,0.462
+nanga (bunjinga),58,2,0,8,0,0.431
+photorealism,58,2,0,6,0,0.741
+contemporary realism,53,4,0,10,0,0.491
+romanesque,53,2,0,1,0,1.0
+pointillism,52,12,0,9,1,0.333
+synthetism,49,3,0,9,0,0.367
+hyper-realism,48,2,0,6,0,0.479
+kitsch,45,3,0,9,0,0.267
+poster art realism,43,2,0,5,0,0.721
+modernismo,43,4,0,11,0,0.349
+new realism,41,5,0,10,1,0.375
+outsider art,41,4,0,8,0,0.268
+high renaissance,40,12,0,6,0,0.525
+zen,39,4,0,5,0,0.744
+safavid period,39,4,0,2,0,0.718
+ottoman period,38,3,0,1,0,1.0
+mosan art,38,1,0,1,0,1.0
+automatic painting,37,10,0,6,0,0.838
+gongbi,37,2,0,9,0,0.514
+neo-concretism,32,4,0,2,0,0.938
+lettrism,32,3,0,4,0,0.656
+fantastic realism,31,2,0,10,0,0.258
+primitivism,27,1,0,4,0,0.63
+early renaissance,26,10,0,4,0,0.615
+new european painting,25,1,0,3,0,0.6
+indian space painting,25,2,0,2,0,0.88
+native art,21,1,0,1,0,1.0
+tubism,20,2,0,6,0,0.5
+new casualism,20,1,0,3,0,0.85
+figurative expressionism,19,2,0,8,0,0.263
+neo-byzantine,18,2,0,3,0,0.889
+neo-figurative art,17,2,0,7,0,0.529
+existential art,17,2,0,6,0,0.412
+timurid period,16,1,0,1,0,1.0
+action painting,14,3,0,1,0,1.0
+costumbrismo,14,2,0,2,0,0.786
+feminist art,13,2,0,4,0,0.538
+cubo-expressionism,13,7,0,8,0,0.308
+yamato-e,12,1,0,3,0,0.417
+light and space,11,1,0,1,0,1.0
+nihonga,11,1,0,5,0,0.455
+joseon dynasty,10,1,0,3,0,0.4
+post-minimalism,10,3,0,2,0,0.8
+synchromism,10,1,0,3,0,0.8
+street art,7,1,0,1,0,1.0
+analytical cubism,4,2,0,4,0,0.25
+synthetic cubism,4,2,0,1,0,1.0

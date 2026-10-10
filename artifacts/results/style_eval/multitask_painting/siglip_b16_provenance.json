@@ -1,0 +1,78 @@
+{
+ "encoder_config": {
+  "library": "open_clip 3.3.0",
+  "input_resolution": "(224, 224)",
+  "family": "vl",
+  "lib": "open_clip",
+  "arch": "hf-hub:timm/ViT-B-16-SigLIP",
+  "pretrained": null,
+  "feature": "image_embed",
+  "n_params": 203155970,
+  "transform": "Compose(\n    Resize(size=(224, 224), interpolation=bicubic, max_size=None, antialias=True)\n    MaybeConvertMode()\n    MaybeToTensor()\n    Normalize(mean=[0.5, 0.5, 0.5], std=[0.5, 0.5, 0.5])\n)",
+  "dataset": "multitask_painting",
+  "encoder": "siglip_b16",
+  "n": 98954,
+  "dim": 768,
+  "torch": "2.11.0+cu128",
+  "python": "3.10.13",
+  "device": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+  "autocast": "fp16",
+  "jpeg_draft_px": 448,
+  "seconds": 82.3,
+  "norm_mean": 14.50225830078125
+ },
+ "evaluation_config": {
+  "primary_evaluator": "knn5",
+  "evaluators": {
+   "knn5": {
+    "type": "knn",
+    "k": 5
+   },
+   "knn_sel": {
+    "type": "knn",
+    "k_grid": [
+     1,
+     3,
+     5,
+     10,
+     20,
+     50
+    ]
+   },
+   "logreg": {
+    "type": "logreg",
+    "wd_grid": [
+     0.0001,
+     0.001,
+     0.01,
+     0.1
+    ],
+    "max_iter": 500
+   },
+   "ncc": {
+    "type": "ncc"
+   }
+  },
+  "metrics": [
+   "accuracy",
+   "balanced_accuracy",
+   "macro_f1"
+  ],
+  "probes": {
+   "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "test_fraction": 0.3,
+   "global_artist_min_images": 20,
+   "within_style_min_artists": 5,
+   "within_style_min_images_per_artist": 15,
+   "within_style_min_genres": 3,
+   "within_style_min_images_per_genre": 15,
+   "max_images_per_class": 200
+  }
+ }
+}

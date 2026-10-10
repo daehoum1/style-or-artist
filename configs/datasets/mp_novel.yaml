@@ -1,0 +1,8 @@
+name: mp_novel
+adapter: multitask_painting
+# MultitaskPainting100k restricted to images with NO WikiArt duplicate (pHash <= 4) -- revision round 1
+root: data/multitask_painting   # path to the MultitaskPainting100k folder; relative to the project root
+image_dir: images
+label_files:
+  - MultitaskPainting100k_Dataset_groundtruth/groundtruth_multiloss_train_header.csv
+  - MultitaskPainting100k_Dataset_groundtruth/groundtruth_multiloss_test_header.csv

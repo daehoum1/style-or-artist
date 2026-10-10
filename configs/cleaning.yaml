@@ -1,0 +1,7 @@
+# Duplicate handling (applies to every dataset)
+near_duplicate_max_hamming: 4      # 64-bit pHash; pairs at distance <= this are treated as the same artwork
+# Within a duplicate group (exact or near):
+#   conflicting artists -> drop the whole group
+#   conflicting styles  -> drop the whole group
+#   conflicting genres  -> keep one representative, genre set to missing
+#   otherwise           -> keep ONE representative (largest pixel count, then smallest image_id)

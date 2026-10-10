@@ -1,0 +1,18 @@
+adapter: wikiart
+artist_source: filename_slug
+genre_id_offset: 129
+genre_names:
+- abstract_painting
+- cityscape
+- genre_painting
+- illustration
+- landscape
+- nude_painting
+- portrait
+- religious_painting
+- sketch_and_study
+- still_life
+- null
+label_file: wclasses.csv
+name: wikiart_phash8
+root: data/wikiart   # path to the WikiArt (ArtGAN) folder; relative to the project root

@@ -1,0 +1,22 @@
+# Pre-specified analysis (written 2026-10-08 before any full result was inspected).
+primary_evaluator: knn5
+primary_metric: balanced_accuracy
+secondary_evaluators: [logreg, knn_sel, ncc]
+metrics: [accuracy, balanced_accuracy, macro_f1]
+probe_evaluator: logreg            # linear decodability; knn5 probes reported as robustness
+probe_metric: balanced_accuracy_norm
+# Primary hypothesis family (Holm-corrected across the three tests; Spearman across encoders):
+primary_tests:
+  - {leak: within_style_artist, gap: artist_gap}
+  - {leak: within_style_genre, gap: genre_gap}
+  - {leak: combined_within_style, gap: joint_gap}    # combined = mean of the two within-style probes
+# Secondary (reported, not corrected as a family): global probes, relative gaps (gap / IID),
+# partial Spearman controlling for IID performance, matched-factorial effects in place of standard gaps.
+gaps:
+  artist_gap: [iid, artist_disjoint]
+  genre_gap: [iid, genre_disjoint]
+  joint_gap: [iid, joint]
+mf_effects:
+  artist_effect: [mf_iid, mf_artist]     # artist seen -> unseen, genre seen
+  genre_effect: [mf_iid, mf_genre]       # genre seen -> unseen, artist seen
+  joint_effect: [mf_iid, mf_joint]

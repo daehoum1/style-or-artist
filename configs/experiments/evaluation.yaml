@@ -1,0 +1,27 @@
+# Fixed BEFORE any model result was seen (2026-10-08).
+primary_evaluator: knn5            # cosine k-NN, k=5, majority vote (ties -> larger summed similarity); no tuning
+evaluators:
+  knn5:   {type: knn, k: 5}
+  knn_sel: {type: knn, k_grid: [1, 3, 5, 10, 20, 50]}        # k selected on validation balanced accuracy
+  logreg: {type: logreg, wd_grid: [1.0e-4, 1.0e-3, 1.0e-2, 1.0e-1], max_iter: 500}
+# Change log: (1) max_iter 300 -> 200 for run time (before any result); (2) 15:55 grid [1e-6..1e-2] -> [1e-4..1e-1],
+# max_iter 500: wd <= 1e-5 did not converge even at 500 L-BFGS iterations (val predictions agreed only 77-95%
+# with a 2000-iteration fit), so selection over those values depended on optimizer details. With the new grid
+# 500-iteration fits agree >= 99.4% with 2000-iteration fits. All results were recomputed.
+  ncc:    {type: ncc}
+# Features: L2-normalized embedding (all evaluators). logreg additionally standardizes with fit-set stats.
+# Selection: fit on part=='train', score on part=='val' (balanced accuracy); final model refit on every
+# non-test row (train + val + train_selection_excluded) with the selected hyperparameter.
+metrics: [accuracy, balanced_accuracy, macro_f1]
+probes:
+  seeds: [0, 1, 2, 3, 4]              # restored to 5 on 2026-10-09 (had been 3 for compute)
+  test_fraction: 0.3
+  global_artist_min_images: 20        # artists with fewer images in the controlled pool are not probe classes
+  within_style_min_artists: 5         # style eligible for the within-style artist probe
+  within_style_min_images_per_artist: 15
+  within_style_min_genres: 3          # style eligible for the within-style genre probe
+  within_style_min_images_per_genre: 15
+  max_images_per_class: 200           # cap (random, seeded) so frequent artists/genres do not dominate
+# 16:25: logistic regression now uses a warm-started regularization path (largest -> smallest wd) and a
+# warm-started refit; validated against cold 2000-iteration fits (test-prediction agreement >= 99.8%, same wd).
+# 2026-10-09: logistic regression restored to all split seeds; probes restored to 5 seeds (author request).

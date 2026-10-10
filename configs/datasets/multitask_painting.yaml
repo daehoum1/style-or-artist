@@ -1,0 +1,8 @@
+name: multitask_painting
+adapter: multitask_painting
+root: data/multitask_painting   # path to the MultitaskPainting100k folder; relative to the project root
+image_dir: images
+# original release files (train + test are pooled; the original split is NOT used)
+label_files:
+  - MultitaskPainting100k_Dataset_groundtruth/groundtruth_multiloss_train_header.csv
+  - MultitaskPainting100k_Dataset_groundtruth/groundtruth_multiloss_test_header.csv

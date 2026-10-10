@@ -1,0 +1,147 @@
+{
+ "dataset": "multitask_painting",
+ "raw": {
+  "n_images": 99816,
+  "missing": {
+   "style": 0,
+   "artist": 0,
+   "genre": 0
+  },
+  "n_styles": 125,
+  "n_artists": 1508,
+  "n_genres": 41,
+  "images_per_style": {
+   "min": 10.0,
+   "median": 156.0,
+   "mean": 798.53,
+   "max": 10524.0
+  },
+  "style_imbalance": {
+   "n_classes": 125,
+   "max_min_ratio": 1052.4,
+   "gini": 0.781,
+   "normalized_entropy": 0.733
+  },
+  "artists_per_style": {
+   "min": 1.0,
+   "median": 8.0,
+   "mean": 26.5,
+   "max": 285.0
+  },
+  "styles_per_artist": {
+   "min": 1.0,
+   "median": 2.0,
+   "mean": 2.2,
+   "max": 13.0
+  },
+  "images_per_artist": {
+   "min": 10.0,
+   "median": 32.0,
+   "mean": 66.19,
+   "max": 500.0
+  },
+  "share_artists_single_style": 0.464,
+  "images_per_genre": {
+   "min": 16.0,
+   "median": 661.0,
+   "mean": 2434.54,
+   "max": 16635.0
+  },
+  "genres_per_style": {
+   "min": 1.0,
+   "median": 9.0,
+   "mean": 11.54,
+   "max": 32.0
+  },
+  "genre_imbalance": {
+   "n_classes": 41,
+   "max_min_ratio": 1039.69,
+   "gini": 0.71,
+   "normalized_entropy": 0.742
+  },
+  "n_images_all_three_labels": 99816
+ },
+ "cleaned": {
+  "n_images": 98954,
+  "missing": {
+   "style": 0,
+   "artist": 0,
+   "genre": 65
+  },
+  "n_styles": 125,
+  "n_artists": 1508,
+  "n_genres": 41,
+  "images_per_style": {
+   "min": 10.0,
+   "median": 156.0,
+   "mean": 791.63,
+   "max": 10448.0
+  },
+  "style_imbalance": {
+   "n_classes": 125,
+   "max_min_ratio": 1044.8,
+   "gini": 0.78,
+   "normalized_entropy": 0.733
+  },
+  "artists_per_style": {
+   "min": 1.0,
+   "median": 8.0,
+   "mean": 26.5,
+   "max": 285.0
+  },
+  "styles_per_artist": {
+   "min": 1.0,
+   "median": 2.0,
+   "mean": 2.2,
+   "max": 13.0
+  },
+  "images_per_artist": {
+   "min": 10.0,
+   "median": 32.0,
+   "mean": 65.62,
+   "max": 500.0
+  },
+  "share_artists_single_style": 0.464,
+  "images_per_genre": {
+   "min": 16.0,
+   "median": 655.0,
+   "mean": 2411.93,
+   "max": 16408.0
+  },
+  "genres_per_style": {
+   "min": 1.0,
+   "median": 9.0,
+   "mean": 11.53,
+   "max": 32.0
+  },
+  "genre_imbalance": {
+   "n_classes": 41,
+   "max_min_ratio": 1025.5,
+   "gini": 0.71,
+   "normalized_entropy": 0.742
+  },
+  "n_images_all_three_labels": 98889
+ },
+ "cleaning": {
+  "n_raw": 99816,
+  "n_unreadable": 0,
+  "n_after_clean": 98954,
+  "n_exact_duplicate_images": 566,
+  "n_near_duplicate_pairs": 869,
+  "n_near_pairs_identical_phash": 502,
+  "n_dup_groups_multi": 681,
+  "max_dup_group_size": 12,
+  "near_duplicate_max_hamming": 4,
+  "version": "d39fde83cabf",
+  "reason_counts": {
+   "near_duplicate_of": 373,
+   "exact_duplicate_of": 258,
+   "near_duplicate_group_conflicting_artist": 140,
+   "near_duplicate_group_conflicting_genre": 39,
+   "exact_duplicate_group_conflicting_artist": 32,
+   "exact_duplicate_group_conflicting_style": 31,
+   "near_duplicate_group_conflicting_style": 28,
+   "exact_duplicate_group_conflicting_genre": 26
+  }
+ }
+}

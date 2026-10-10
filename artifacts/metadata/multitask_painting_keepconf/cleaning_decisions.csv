@@ -1,0 +1,907 @@
+image_id,action,reason,detail
+93715.jpg,drop,exact_duplicate_of,73690.jpg
+70873.jpg,drop,near_duplicate_of,37473.jpg
+13495.jpg,drop,exact_duplicate_of,1211.jpg
+49873.jpg,drop,exact_duplicate_of,38397.jpg
+38397.jpg,modify,exact_duplicate_group_conflicting_genre,mythological painting|self-portrait
+7700.jpg,drop,exact_duplicate_of,49160.jpg
+63463.jpg,drop,near_duplicate_of,79242.jpg
+90086.jpg,drop,exact_duplicate_of,72083.jpg
+54981.jpg,drop,near_duplicate_of,37075.jpg
+91569.jpg,drop,exact_duplicate_of,7224.jpg
+79528.jpg,drop,exact_duplicate_of,51492.jpg
+36739.jpg,drop,exact_duplicate_of,1155.jpg
+36944.jpg,drop,exact_duplicate_of,1155.jpg
+40565.jpg,drop,exact_duplicate_of,1155.jpg
+49948.jpg,drop,exact_duplicate_of,1155.jpg
+58805.jpg,drop,exact_duplicate_of,1155.jpg
+63452.jpg,drop,exact_duplicate_of,1155.jpg
+73244.jpg,drop,exact_duplicate_of,1155.jpg
+98150.jpg,drop,exact_duplicate_of,1155.jpg
+1155.jpg,modify,exact_duplicate_group_conflicting_genre,capriccio|cityscape|interior|veduta
+96902.jpg,drop,exact_duplicate_of,15571.jpg
+61721.jpg,drop,near_duplicate_of,52880.jpg
+67366.jpg,drop,near_duplicate_group_conflicting_artist,el lissitzky|ivan bilibin
+89442.jpg,drop,near_duplicate_group_conflicting_artist,el lissitzky|ivan bilibin
+82284.jpg,drop,exact_duplicate_of,71531.jpg
+71531.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|sketch and study
+97448.jpg,drop,near_duplicate_of,28969.jpg
+80605.jpg,drop,near_duplicate_group_conflicting_artist,dante gabriel rossetti|william holman hunt
+5199.jpg,drop,near_duplicate_group_conflicting_artist,dante gabriel rossetti|william holman hunt
+71323.jpg,drop,exact_duplicate_of,44333.jpg
+31686.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+95437.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+7139.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+64870.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+95168.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+56603.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+92282.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+13596.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+9293.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+12580.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+50011.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+78251.jpg,drop,near_duplicate_group_conflicting_artist,dmitry levitzky|george frederick watts|george romney|henry raeburn|ivan kramskoy|thomas eakins|thomas lawrence|tintoretto
+88812.jpg,drop,near_duplicate_of,47255.jpg
+22529.jpg,drop,near_duplicate_group_conflicting_artist,george luks|john jackson|thomas lawrence
+72217.jpg,drop,near_duplicate_group_conflicting_artist,george luks|john jackson|thomas lawrence
+81296.jpg,drop,near_duplicate_group_conflicting_artist,george luks|john jackson|thomas lawrence
+13369.jpg,drop,near_duplicate_group_conflicting_artist,george luks|john jackson|thomas lawrence
+40105.jpg,drop,near_duplicate_group_conflicting_artist,george luks|john jackson|thomas lawrence
+8712.jpg,drop,near_duplicate_group_conflicting_artist,george luks|john jackson|thomas lawrence
+82314.jpg,drop,near_duplicate_group_conflicting_artist,giovanni bellini|titian
+4938.jpg,drop,near_duplicate_group_conflicting_artist,giovanni bellini|titian
+67252.jpg,drop,exact_duplicate_of,54403.jpg
+84035.jpg,drop,exact_duplicate_of,59052.jpg
+80141.jpg,drop,near_duplicate_of,75708.jpg
+44598.jpg,drop,near_duplicate_of,67803.jpg
+83700.jpg,drop,near_duplicate_of,43820.jpg
+60093.jpg,drop,exact_duplicate_of,46449.jpg
+46449.jpg,modify,exact_duplicate_group_conflicting_genre,religious painting|sketch and study
+81931.jpg,drop,near_duplicate_of,47633.jpg
+25844.jpg,drop,near_duplicate_of,47633.jpg
+50579.jpg,drop,near_duplicate_of,78712.jpg
+64728.jpg,drop,near_duplicate_of,15761.jpg
+66319.jpg,drop,near_duplicate_of,38200.jpg
+44361.jpg,drop,near_duplicate_of,38200.jpg
+57924.jpg,drop,near_duplicate_of,16333.jpg
+28589.jpg,drop,exact_duplicate_group_conflicting_artist,edgar degas|mary cassatt
+7938.jpg,drop,exact_duplicate_group_conflicting_artist,edgar degas|mary cassatt
+1448.jpg,drop,near_duplicate_of,68703.jpg
+20981.jpg,drop,near_duplicate_of,84015.jpg
+5916.jpg,drop,exact_duplicate_of,33058.jpg
+50875.jpg,drop,near_duplicate_of,84857.jpg
+45321.jpg,drop,near_duplicate_of,86965.jpg
+38346.jpg,drop,near_duplicate_of,35309.jpg
+28729.jpg,drop,exact_duplicate_of,27811.jpg
+45458.jpg,drop,exact_duplicate_of,27811.jpg
+71217.jpg,drop,exact_duplicate_of,27811.jpg
+27811.jpg,modify,exact_duplicate_group_conflicting_genre,portrait|sketch and study
+82626.jpg,drop,exact_duplicate_group_conflicting_artist,amedeo modigliani|leon bakst
+100280.jpg,drop,exact_duplicate_group_conflicting_artist,amedeo modigliani|leon bakst
+72434.jpg,drop,exact_duplicate_of,39019.jpg
+32912.jpg,drop,near_duplicate_of,70261.jpg
+99222.jpg,drop,exact_duplicate_of,88870.jpg
+88870.jpg,modify,exact_duplicate_group_conflicting_genre,nude painting (nu)|sketch and study
+68839.jpg,drop,near_duplicate_of,21936.jpg
+67106.jpg,drop,exact_duplicate_of,1878.jpg
+15591.jpg,drop,exact_duplicate_of,102904.jpg
+102904.jpg,modify,exact_duplicate_group_conflicting_genre,mythological painting|sketch and study
+71622.jpg,drop,near_duplicate_of,66071.jpg
+102152.jpg,drop,near_duplicate_of,98749.jpg
+81434.jpg,drop,exact_duplicate_of,72563.jpg
+38926.jpg,drop,near_duplicate_of,36185.jpg
+36185.jpg,modify,near_duplicate_group_conflicting_genre,design|genre painting
+98838.jpg,drop,near_duplicate_of,44107.jpg
+97925.jpg,drop,exact_duplicate_of,16803.jpg
+52270.jpg,drop,exact_duplicate_of,36643.jpg
+91936.jpg,drop,near_duplicate_of,41342.jpg
+60725.jpg,drop,near_duplicate_of,51764.jpg
+11597.jpg,drop,exact_duplicate_group_conflicting_artist,albrecht durer|matthias grünewald
+100743.jpg,drop,exact_duplicate_group_conflicting_artist,albrecht durer|matthias grünewald
+42925.jpg,drop,exact_duplicate_of,1572.jpg
+20290.jpg,drop,exact_duplicate_of,16718.jpg
+70769.jpg,drop,exact_duplicate_of,57725.jpg
+35728.jpg,drop,near_duplicate_of,12346.jpg
+54845.jpg,drop,near_duplicate_group_conflicting_artist,jan provoost|jan van hemessen
+56855.jpg,drop,near_duplicate_group_conflicting_artist,jan provoost|jan van hemessen
+41147.jpg,drop,near_duplicate_of,79414.jpg
+89312.jpg,drop,exact_duplicate_of,70024.jpg
+33915.jpg,drop,near_duplicate_of,91199.jpg
+9062.jpg,drop,exact_duplicate_of,82329.jpg
+92135.jpg,drop,near_duplicate_of,60924.jpg
+60924.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|illustration
+71340.jpg,drop,near_duplicate_of,56905.jpg
+78503.jpg,drop,exact_duplicate_of,61046.jpg
+61046.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|portrait
+43682.jpg,drop,exact_duplicate_of,10876.jpg
+49748.jpg,drop,near_duplicate_of,103179.jpg
+74290.jpg,drop,near_duplicate_of,8418.jpg
+68480.jpg,drop,near_duplicate_of,8418.jpg
+58547.jpg,drop,near_duplicate_of,8418.jpg
+76135.jpg,drop,near_duplicate_of,33353.jpg
+98708.jpg,drop,near_duplicate_group_conflicting_artist,robert campin|rogier van der weyden
+75241.jpg,drop,near_duplicate_group_conflicting_artist,robert campin|rogier van der weyden
+79310.jpg,drop,near_duplicate_of,33821.jpg
+36778.jpg,drop,exact_duplicate_of,100046.jpg
+78581.jpg,drop,near_duplicate_of,65692.jpg
+16534.jpg,drop,exact_duplicate_of,16311.jpg
+24681.jpg,drop,near_duplicate_of,15317.jpg
+37461.jpg,drop,near_duplicate_of,77518.jpg
+77518.jpg,modify,near_duplicate_group_conflicting_genre,landscape|religious painting
+36586.jpg,drop,exact_duplicate_of,30462.jpg
+72914.jpg,drop,exact_duplicate_of,35704.jpg
+35704.jpg,modify,exact_duplicate_group_conflicting_genre,cityscape|interior
+73282.jpg,drop,near_duplicate_of,6461.jpg
+55797.jpg,drop,near_duplicate_of,47751.jpg
+58659.jpg,drop,near_duplicate_of,25810.jpg
+31302.jpg,drop,near_duplicate_of,6507.jpg
+6507.jpg,modify,near_duplicate_group_conflicting_genre,capriccio|veduta
+56151.jpg,drop,near_duplicate_of,11802.jpg
+11802.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|pastorale
+31.jpg,drop,near_duplicate_of,13638.jpg
+11421.jpg,drop,near_duplicate_of,28130.jpg
+6399.jpg,drop,near_duplicate_of,38939.jpg
+53511.jpg,drop,exact_duplicate_of,35199.jpg
+85077.jpg,drop,exact_duplicate_of,35199.jpg
+91231.jpg,drop,exact_duplicate_of,35199.jpg
+35199.jpg,modify,exact_duplicate_group_conflicting_genre,landscape|poster
+85531.jpg,drop,near_duplicate_of,71196.jpg
+71196.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|symbolic painting
+31562.jpg,drop,near_duplicate_of,59459.jpg
+102308.jpg,drop,near_duplicate_of,77056.jpg
+86118.jpg,drop,exact_duplicate_of,6515.jpg
+68766.jpg,drop,exact_duplicate_of,53936.jpg
+32511.jpg,drop,near_duplicate_of,5295.jpg
+50442.jpg,drop,near_duplicate_group_conflicting_artist,ivan kramskoy|vasily perov
+65714.jpg,drop,near_duplicate_group_conflicting_artist,ivan kramskoy|vasily perov
+99591.jpg,drop,exact_duplicate_of,1456.jpg
+16925.jpg,drop,near_duplicate_of,98794.jpg
+98794.jpg,modify,near_duplicate_group_conflicting_genre,portrait|sketch and study
+9363.jpg,drop,near_duplicate_group_conflicting_artist,martin kippenberger|xu beihong
+7635.jpg,drop,near_duplicate_group_conflicting_artist,martin kippenberger|xu beihong
+48419.jpg,drop,near_duplicate_of,82630.jpg
+91560.jpg,drop,exact_duplicate_of,75894.jpg
+86075.jpg,drop,near_duplicate_of,27936.jpg
+86953.jpg,drop,near_duplicate_of,30535.jpg
+63559.jpg,drop,near_duplicate_of,74583.jpg
+74583.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|landscape
+28909.jpg,drop,near_duplicate_of,42912.jpg
+60276.jpg,drop,near_duplicate_of,36938.jpg
+13906.jpg,drop,near_duplicate_of,102576.jpg
+41510.jpg,drop,near_duplicate_group_conflicting_artist,patrick caulfield|vasily surikov
+69902.jpg,drop,near_duplicate_group_conflicting_artist,patrick caulfield|vasily surikov
+74723.jpg,drop,near_duplicate_of,66743.jpg
+75700.jpg,drop,exact_duplicate_of,66953.jpg
+87940.jpg,drop,near_duplicate_of,84700.jpg
+59456.jpg,drop,near_duplicate_of,16077.jpg
+16077.jpg,modify,near_duplicate_group_conflicting_genre,allegorical painting|genre painting
+98732.jpg,drop,near_duplicate_of,58924.jpg
+57689.jpg,drop,exact_duplicate_of,26179.jpg
+91066.jpg,drop,near_duplicate_of,2193.jpg
+87947.jpg,drop,exact_duplicate_of,75661.jpg
+41814.jpg,drop,near_duplicate_of,77570.jpg
+28795.jpg,drop,exact_duplicate_of,17170.jpg
+61028.jpg,drop,near_duplicate_of,9482.jpg
+89853.jpg,drop,near_duplicate_group_conflicting_artist,jean-francois millet|john jackson
+85304.jpg,drop,near_duplicate_group_conflicting_artist,jean-francois millet|john jackson
+95040.jpg,drop,exact_duplicate_of,61870.jpg
+34726.jpg,drop,exact_duplicate_of,23358.jpg
+99558.jpg,drop,near_duplicate_of,37328.jpg
+24502.jpg,drop,exact_duplicate_of,1407.jpg
+37124.jpg,drop,near_duplicate_of,69119.jpg
+90033.jpg,drop,exact_duplicate_of,62750.jpg
+98213.jpg,drop,exact_duplicate_of,62750.jpg
+102035.jpg,drop,near_duplicate_of,63459.jpg
+74765.jpg,drop,near_duplicate_of,42381.jpg
+84903.jpg,drop,near_duplicate_of,88287.jpg
+88287.jpg,modify,near_duplicate_group_conflicting_genre,portrait|self-portrait
+5236.jpg,drop,exact_duplicate_of,26173.jpg
+99969.jpg,drop,near_duplicate_of,6828.jpg
+70317.jpg,drop,exact_duplicate_of,20154.jpg
+949.jpg,drop,near_duplicate_of,54652.jpg
+12506.jpg,drop,near_duplicate_group_conflicting_artist,karl bryullov|vasily tropinin
+50240.jpg,drop,near_duplicate_group_conflicting_artist,karl bryullov|vasily tropinin
+68383.jpg,drop,exact_duplicate_of,57430.jpg
+6254.jpg,drop,near_duplicate_of,25703.jpg
+30881.jpg,drop,near_duplicate_of,83765.jpg
+98076.jpg,drop,exact_duplicate_of,6766.jpg
+70643.jpg,drop,exact_duplicate_of,45834.jpg
+88042.jpg,drop,exact_duplicate_of,29331.jpg
+48695.jpg,drop,near_duplicate_of,46301.jpg
+46301.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|religious painting
+17464.jpg,drop,exact_duplicate_of,102473.jpg
+11749.jpg,drop,near_duplicate_of,64306.jpg
+64306.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|landscape
+11190.jpg,drop,near_duplicate_of,92294.jpg
+92784.jpg,drop,exact_duplicate_of,3913.jpg
+3913.jpg,modify,exact_duplicate_group_conflicting_genre,landscape|still life
+36047.jpg,drop,near_duplicate_of,34424.jpg
+34424.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|landscape
+99043.jpg,drop,near_duplicate_of,36605.jpg
+19228.jpg,drop,near_duplicate_group_conflicting_artist,edgar degas|giovanni boldini
+58497.jpg,drop,near_duplicate_group_conflicting_artist,edgar degas|giovanni boldini
+55546.jpg,drop,near_duplicate_of,74965.jpg
+78532.jpg,drop,near_duplicate_of,50914.jpg
+62849.jpg,drop,near_duplicate_of,3394.jpg
+24593.jpg,drop,near_duplicate_of,101634.jpg
+80754.jpg,drop,near_duplicate_of,19325.jpg
+16717.jpg,drop,exact_duplicate_of,103137.jpg
+61044.jpg,drop,near_duplicate_of,52586.jpg
+4680.jpg,drop,near_duplicate_of,8539.jpg
+60447.jpg,drop,exact_duplicate_of,58814.jpg
+69394.jpg,drop,near_duplicate_of,14882.jpg
+98390.jpg,drop,exact_duplicate_of,94326.jpg
+82266.jpg,drop,near_duplicate_of,57640.jpg
+57640.jpg,modify,near_duplicate_group_conflicting_genre,religious painting|sketch and study
+37875.jpg,drop,near_duplicate_group_conflicting_artist,john henry twachtman|william merritt chase
+30407.jpg,drop,near_duplicate_group_conflicting_artist,john henry twachtman|william merritt chase
+47204.jpg,drop,near_duplicate_of,53008.jpg
+75689.jpg,drop,near_duplicate_of,13419.jpg
+23973.jpg,drop,near_duplicate_of,84495.jpg
+43978.jpg,drop,near_duplicate_of,50813.jpg
+25679.jpg,drop,near_duplicate_of,70373.jpg
+80177.jpg,drop,near_duplicate_group_conflicting_artist,jose maria velasco|nicolaes maes
+71485.jpg,drop,near_duplicate_group_conflicting_artist,jose maria velasco|nicolaes maes
+48433.jpg,drop,exact_duplicate_of,47885.jpg
+49305.jpg,drop,exact_duplicate_of,47885.jpg
+54164.jpg,drop,exact_duplicate_of,47885.jpg
+66653.jpg,drop,exact_duplicate_of,35181.jpg
+88962.jpg,drop,near_duplicate_of,51737.jpg
+78009.jpg,drop,exact_duplicate_of,55842.jpg
+8326.jpg,drop,exact_duplicate_of,55842.jpg
+62319.jpg,drop,near_duplicate_of,25277.jpg
+7377.jpg,drop,near_duplicate_group_conflicting_artist,auguste toulmouche|theo van rysselberghe
+91216.jpg,drop,near_duplicate_group_conflicting_artist,auguste toulmouche|theo van rysselberghe
+83803.jpg,drop,near_duplicate_of,2066.jpg
+38389.jpg,drop,exact_duplicate_of,38048.jpg
+6850.jpg,drop,near_duplicate_of,62538.jpg
+68428.jpg,drop,near_duplicate_of,2515.jpg
+2515.jpg,modify,near_duplicate_group_conflicting_genre,religious painting|sketch and study
+71789.jpg,drop,near_duplicate_of,18738.jpg
+45931.jpg,drop,near_duplicate_group_conflicting_artist,adriaen van ostade|isaac van ostade
+56777.jpg,drop,near_duplicate_group_conflicting_artist,adriaen van ostade|isaac van ostade
+57586.jpg,drop,exact_duplicate_of,3663.jpg
+67588.jpg,drop,near_duplicate_of,88948.jpg
+89338.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|vasile popescu
+68801.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|vasile popescu
+90692.jpg,drop,near_duplicate_of,19639.jpg
+93266.jpg,drop,near_duplicate_of,86218.jpg
+88333.jpg,drop,exact_duplicate_of,54272.jpg
+76810.jpg,drop,near_duplicate_of,75274.jpg
+31417.jpg,drop,near_duplicate_of,20287.jpg
+84631.jpg,drop,near_duplicate_of,20287.jpg
+27573.jpg,drop,near_duplicate_of,11175.jpg
+31576.jpg,drop,near_duplicate_of,11175.jpg
+4192.jpg,drop,near_duplicate_of,11175.jpg
+57358.jpg,drop,near_duplicate_of,11175.jpg
+72856.jpg,drop,near_duplicate_of,11175.jpg
+87122.jpg,drop,near_duplicate_of,11175.jpg
+89790.jpg,drop,near_duplicate_of,11175.jpg
+93993.jpg,drop,near_duplicate_of,11175.jpg
+47763.jpg,drop,near_duplicate_of,12673.jpg
+59426.jpg,drop,near_duplicate_of,67960.jpg
+34359.jpg,drop,near_duplicate_of,31529.jpg
+96340.jpg,drop,exact_duplicate_of,81991.jpg
+6852.jpg,drop,exact_duplicate_of,59942.jpg
+7200.jpg,drop,exact_duplicate_of,59942.jpg
+83082.jpg,drop,exact_duplicate_of,59942.jpg
+36504.jpg,drop,exact_duplicate_of,19719.jpg
+70.jpg,drop,near_duplicate_of,59572.jpg
+79154.jpg,drop,exact_duplicate_of,24476.jpg
+48146.jpg,drop,near_duplicate_of,792.jpg
+55184.jpg,drop,near_duplicate_group_conflicting_artist,frederic leighton|john william waterhouse
+21841.jpg,drop,near_duplicate_group_conflicting_artist,frederic leighton|john william waterhouse
+41685.jpg,drop,exact_duplicate_of,100427.jpg
+69184.jpg,drop,exact_duplicate_group_conflicting_artist,giorgione|titian
+66263.jpg,drop,exact_duplicate_group_conflicting_artist,giorgione|titian
+94893.jpg,drop,near_duplicate_of,7055.jpg
+97279.jpg,drop,exact_duplicate_of,12598.jpg
+28624.jpg,drop,near_duplicate_of,29607.jpg
+7281.jpg,drop,exact_duplicate_of,67750.jpg
+83251.jpg,drop,near_duplicate_of,34906.jpg
+74437.jpg,drop,near_duplicate_of,83128.jpg
+50586.jpg,drop,near_duplicate_of,22532.jpg
+51283.jpg,drop,near_duplicate_of,22532.jpg
+81320.jpg,drop,exact_duplicate_of,49680.jpg
+92337.jpg,drop,near_duplicate_of,60108.jpg
+31836.jpg,drop,near_duplicate_of,12715.jpg
+53717.jpg,drop,near_duplicate_of,70836.jpg
+86567.jpg,drop,near_duplicate_of,18506.jpg
+102608.jpg,drop,near_duplicate_of,38355.jpg
+93022.jpg,drop,near_duplicate_of,59173.jpg
+86925.jpg,drop,exact_duplicate_of,7198.jpg
+57192.jpg,drop,exact_duplicate_of,22655.jpg
+83042.jpg,drop,near_duplicate_of,59941.jpg
+99452.jpg,drop,exact_duplicate_of,22846.jpg
+37283.jpg,drop,near_duplicate_of,8440.jpg
+93633.jpg,drop,exact_duplicate_of,25539.jpg
+78679.jpg,drop,near_duplicate_of,68648.jpg
+1595.jpg,drop,near_duplicate_of,55016.jpg
+75548.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|lucian grigorescu
+77173.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|lucian grigorescu
+63254.jpg,drop,near_duplicate_of,96589.jpg
+3507.jpg,drop,near_duplicate_group_conflicting_artist,dirk bouts|hugo van der goes
+81344.jpg,drop,near_duplicate_group_conflicting_artist,dirk bouts|hugo van der goes
+95052.jpg,drop,near_duplicate_of,73645.jpg
+45904.jpg,drop,near_duplicate_of,11224.jpg
+7767.jpg,drop,exact_duplicate_of,5769.jpg
+10490.jpg,drop,near_duplicate_of,62871.jpg
+90190.jpg,drop,near_duplicate_of,35133.jpg
+35133.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|portrait
+93636.jpg,drop,near_duplicate_group_conflicting_artist,giorgione|titian
+29950.jpg,drop,near_duplicate_group_conflicting_artist,giorgione|titian
+91835.jpg,drop,exact_duplicate_of,73484.jpg
+99913.jpg,drop,near_duplicate_of,27830.jpg
+10314.jpg,drop,near_duplicate_of,30501.jpg
+30501.jpg,modify,near_duplicate_group_conflicting_genre,landscape|symbolic painting
+11319.jpg,drop,near_duplicate_of,6121.jpg
+85515.jpg,drop,near_duplicate_of,78454.jpg
+97233.jpg,drop,near_duplicate_of,85435.jpg
+58499.jpg,drop,near_duplicate_of,84019.jpg
+84019.jpg,modify,near_duplicate_group_conflicting_genre,landscape|marina
+95930.jpg,drop,near_duplicate_of,15217.jpg
+96085.jpg,drop,exact_duplicate_of,63618.jpg
+57704.jpg,drop,near_duplicate_of,100098.jpg
+80709.jpg,drop,near_duplicate_of,20562.jpg
+2319.jpg,drop,near_duplicate_of,95136.jpg
+48592.jpg,drop,near_duplicate_of,18071.jpg
+75304.jpg,drop,near_duplicate_of,18071.jpg
+5039.jpg,drop,near_duplicate_of,18071.jpg
+54492.jpg,drop,near_duplicate_of,51741.jpg
+44152.jpg,drop,near_duplicate_group_conflicting_artist,annibale carracci|joseph wright
+60744.jpg,drop,near_duplicate_group_conflicting_artist,annibale carracci|joseph wright
+78132.jpg,drop,exact_duplicate_of,26516.jpg
+59224.jpg,drop,near_duplicate_of,14301.jpg
+910.jpg,drop,near_duplicate_of,46832.jpg
+8155.jpg,drop,near_duplicate_of,89879.jpg
+94696.jpg,drop,near_duplicate_of,102829.jpg
+67633.jpg,drop,exact_duplicate_of,28151.jpg
+28151.jpg,modify,exact_duplicate_group_conflicting_genre,abstract|genre painting
+88433.jpg,drop,near_duplicate_of,90931.jpg
+27174.jpg,drop,near_duplicate_of,86259.jpg
+74733.jpg,drop,near_duplicate_of,65878.jpg
+77449.jpg,drop,near_duplicate_group_conflicting_artist,camille corot|titian
+75083.jpg,drop,near_duplicate_group_conflicting_artist,camille corot|titian
+75198.jpg,drop,near_duplicate_of,37243.jpg
+70899.jpg,drop,exact_duplicate_of,41438.jpg
+41438.jpg,modify,exact_duplicate_group_conflicting_genre,portrait|religious painting
+92583.jpg,drop,near_duplicate_of,40177.jpg
+85054.jpg,drop,near_duplicate_of,54040.jpg
+54040.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|symbolic painting
+69551.jpg,drop,exact_duplicate_of,62242.jpg
+81642.jpg,drop,near_duplicate_of,19126.jpg
+31851.jpg,drop,near_duplicate_of,19126.jpg
+95977.jpg,drop,near_duplicate_group_conflicting_artist,agnolo bronzino|jacopo pontormo
+69076.jpg,drop,near_duplicate_group_conflicting_artist,agnolo bronzino|jacopo pontormo
+49993.jpg,drop,exact_duplicate_of,44006.jpg
+72487.jpg,drop,exact_duplicate_of,44006.jpg
+75844.jpg,drop,exact_duplicate_of,44006.jpg
+63534.jpg,drop,near_duplicate_of,23082.jpg
+89606.jpg,drop,near_duplicate_of,23082.jpg
+63597.jpg,drop,near_duplicate_of,41190.jpg
+66479.jpg,drop,near_duplicate_of,12196.jpg
+88034.jpg,drop,exact_duplicate_of,39519.jpg
+15104.jpg,drop,near_duplicate_of,65813.jpg
+14427.jpg,drop,near_duplicate_of,15042.jpg
+45584.jpg,drop,near_duplicate_of,41615.jpg
+61289.jpg,drop,near_duplicate_of,28564.jpg
+42200.jpg,drop,near_duplicate_group_conflicting_artist,jean arp|kurt schwitters
+48536.jpg,drop,near_duplicate_group_conflicting_artist,jean arp|kurt schwitters
+39568.jpg,drop,near_duplicate_of,14712.jpg
+35741.jpg,drop,near_duplicate_of,73628.jpg
+73120.jpg,drop,exact_duplicate_of,100160.jpg
+58994.jpg,drop,near_duplicate_of,75852.jpg
+66409.jpg,drop,near_duplicate_of,26228.jpg
+27034.jpg,drop,exact_duplicate_of,11194.jpg
+84742.jpg,drop,exact_duplicate_of,64598.jpg
+41252.jpg,drop,near_duplicate_group_conflicting_artist,andrea del sarto|jacopo pontormo
+13122.jpg,drop,near_duplicate_group_conflicting_artist,andrea del sarto|jacopo pontormo
+47684.jpg,drop,near_duplicate_of,51193.jpg
+22678.jpg,drop,exact_duplicate_of,101393.jpg
+21678.jpg,drop,near_duplicate_of,81073.jpg
+29292.jpg,drop,near_duplicate_of,59972.jpg
+35706.jpg,drop,near_duplicate_of,94249.jpg
+22809.jpg,drop,exact_duplicate_of,16658.jpg
+36543.jpg,drop,near_duplicate_of,28347.jpg
+97433.jpg,drop,near_duplicate_of,18632.jpg
+11859.jpg,drop,near_duplicate_group_conflicting_artist,giorgione|titian
+22603.jpg,drop,near_duplicate_group_conflicting_artist,giorgione|titian
+22218.jpg,drop,near_duplicate_of,41608.jpg
+1815.jpg,drop,near_duplicate_of,85310.jpg
+99688.jpg,drop,near_duplicate_of,2513.jpg
+69625.jpg,drop,near_duplicate_group_conflicting_artist,gerard terborch|grigoriy myasoyedov|gustave courbet|henry raeburn|john jackson|leon arthur tutundjian|louise elisabeth vigee le brun
+50787.jpg,drop,near_duplicate_group_conflicting_artist,gerard terborch|grigoriy myasoyedov|gustave courbet|henry raeburn|john jackson|leon arthur tutundjian|louise elisabeth vigee le brun
+53875.jpg,drop,near_duplicate_group_conflicting_artist,gerard terborch|grigoriy myasoyedov|gustave courbet|henry raeburn|john jackson|leon arthur tutundjian|louise elisabeth vigee le brun
+83050.jpg,drop,near_duplicate_group_conflicting_artist,gerard terborch|grigoriy myasoyedov|gustave courbet|henry raeburn|john jackson|leon arthur tutundjian|louise elisabeth vigee le brun
+43292.jpg,drop,near_duplicate_group_conflicting_artist,gerard terborch|grigoriy myasoyedov|gustave courbet|henry raeburn|john jackson|leon arthur tutundjian|louise elisabeth vigee le brun
+1523.jpg,drop,near_duplicate_group_conflicting_artist,gerard terborch|grigoriy myasoyedov|gustave courbet|henry raeburn|john jackson|leon arthur tutundjian|louise elisabeth vigee le brun
+47367.jpg,drop,near_duplicate_group_conflicting_artist,gerard terborch|grigoriy myasoyedov|gustave courbet|henry raeburn|john jackson|leon arthur tutundjian|louise elisabeth vigee le brun
+76381.jpg,drop,exact_duplicate_of,18055.jpg
+6173.jpg,drop,exact_duplicate_of,41399.jpg
+30446.jpg,drop,exact_duplicate_of,10617.jpg
+5462.jpg,drop,exact_duplicate_group_conflicting_artist,edwin lord weeks|thomas moran
+31826.jpg,drop,exact_duplicate_group_conflicting_artist,edwin lord weeks|thomas moran
+33521.jpg,drop,exact_duplicate_of,15918.jpg
+95682.jpg,drop,exact_duplicate_of,60745.jpg
+46865.jpg,drop,exact_duplicate_of,25419.jpg
+38022.jpg,drop,near_duplicate_group_conflicting_artist,giovanni antonio boltraffio|leonardo da vinci
+44722.jpg,drop,near_duplicate_group_conflicting_artist,giovanni antonio boltraffio|leonardo da vinci
+11434.jpg,drop,near_duplicate_of,78994.jpg
+6811.jpg,drop,exact_duplicate_of,14322.jpg
+70639.jpg,drop,near_duplicate_of,91007.jpg
+91007.jpg,modify,near_duplicate_group_conflicting_genre,landscape|marina
+13756.jpg,drop,near_duplicate_of,82560.jpg
+60676.jpg,drop,exact_duplicate_of,21290.jpg
+3372.jpg,drop,near_duplicate_of,64569.jpg
+46527.jpg,drop,exact_duplicate_of,36150.jpg
+52325.jpg,drop,exact_duplicate_of,36150.jpg
+91772.jpg,drop,exact_duplicate_of,36150.jpg
+89328.jpg,drop,near_duplicate_of,70489.jpg
+99840.jpg,drop,near_duplicate_group_conflicting_artist,dante gabriel rossetti|edward burne-jones
+3547.jpg,drop,near_duplicate_group_conflicting_artist,dante gabriel rossetti|edward burne-jones
+18010.jpg,drop,near_duplicate_of,81807.jpg
+81807.jpg,modify,near_duplicate_group_conflicting_genre,landscape|veduta
+21819.jpg,drop,near_duplicate_of,40637.jpg
+66575.jpg,drop,near_duplicate_of,14439.jpg
+70195.jpg,drop,near_duplicate_of,14439.jpg
+16632.jpg,drop,near_duplicate_of,19688.jpg
+68639.jpg,drop,exact_duplicate_of,35302.jpg
+44878.jpg,drop,near_duplicate_of,36285.jpg
+18679.jpg,drop,near_duplicate_of,97518.jpg
+508.jpg,drop,near_duplicate_of,100376.jpg
+60371.jpg,drop,near_duplicate_of,20088.jpg
+76156.jpg,drop,near_duplicate_of,72969.jpg
+44259.jpg,drop,near_duplicate_group_conflicting_artist,kuzma petrov-vodkin|zinaida serebriakova
+75284.jpg,drop,near_duplicate_group_conflicting_artist,kuzma petrov-vodkin|zinaida serebriakova
+3168.jpg,drop,near_duplicate_of,53460.jpg
+14810.jpg,drop,near_duplicate_of,33011.jpg
+82531.jpg,drop,near_duplicate_of,37392.jpg
+50627.jpg,drop,near_duplicate_of,65302.jpg
+58315.jpg,drop,near_duplicate_of,57064.jpg
+80068.jpg,drop,near_duplicate_of,41298.jpg
+41298.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|symbolic painting
+67274.jpg,drop,near_duplicate_of,69307.jpg
+96044.jpg,drop,near_duplicate_of,62711.jpg
+54224.jpg,drop,near_duplicate_of,24040.jpg
+12531.jpg,drop,near_duplicate_of,41901.jpg
+29021.jpg,drop,near_duplicate_of,12329.jpg
+70674.jpg,drop,near_duplicate_of,48328.jpg
+28523.jpg,drop,exact_duplicate_of,101597.jpg
+26585.jpg,drop,exact_duplicate_of,20255.jpg
+32956.jpg,drop,exact_duplicate_of,11752.jpg
+68257.jpg,drop,near_duplicate_of,34636.jpg
+67806.jpg,drop,near_duplicate_of,25662.jpg
+25662.jpg,modify,near_duplicate_group_conflicting_genre,landscape|wildlife painting
+92446.jpg,drop,exact_duplicate_of,21869.jpg
+21869.jpg,modify,exact_duplicate_group_conflicting_genre,cityscape|landscape
+58016.jpg,drop,near_duplicate_of,3120.jpg
+50313.jpg,drop,near_duplicate_group_conflicting_artist,john singer sargent|paul signac
+71784.jpg,drop,near_duplicate_group_conflicting_artist,john singer sargent|paul signac
+2657.jpg,drop,exact_duplicate_of,1464.jpg
+45976.jpg,drop,near_duplicate_of,24533.jpg
+97367.jpg,drop,near_duplicate_of,54430.jpg
+42508.jpg,drop,near_duplicate_of,16395.jpg
+94515.jpg,drop,exact_duplicate_of,73194.jpg
+96489.jpg,drop,near_duplicate_of,95654.jpg
+6859.jpg,drop,exact_duplicate_of,15139.jpg
+85817.jpg,drop,exact_duplicate_of,52652.jpg
+87866.jpg,drop,exact_duplicate_of,78620.jpg
+49340.jpg,drop,near_duplicate_of,98170.jpg
+84729.jpg,drop,exact_duplicate_of,50234.jpg
+92571.jpg,drop,near_duplicate_of,16855.jpg
+16855.jpg,modify,near_duplicate_group_conflicting_genre,animal painting|flower painting
+36771.jpg,drop,near_duplicate_group_conflicting_artist,columbano bordalo pinheiro|john singer sargent|peter paul rubens
+59853.jpg,drop,near_duplicate_group_conflicting_artist,columbano bordalo pinheiro|john singer sargent|peter paul rubens
+9402.jpg,drop,near_duplicate_group_conflicting_artist,columbano bordalo pinheiro|john singer sargent|peter paul rubens
+50686.jpg,drop,near_duplicate_group_conflicting_artist,john singer sargent|william merritt chase
+45302.jpg,drop,near_duplicate_group_conflicting_artist,john singer sargent|william merritt chase
+35433.jpg,drop,near_duplicate_of,94470.jpg
+93788.jpg,drop,exact_duplicate_group_conflicting_artist,ilya repin|ivan kramskoy
+85766.jpg,drop,exact_duplicate_group_conflicting_artist,ilya repin|ivan kramskoy
+82821.jpg,drop,near_duplicate_of,8522.jpg
+8522.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|genre painting
+85957.jpg,drop,exact_duplicate_of,12612.jpg
+96364.jpg,drop,exact_duplicate_group_conflicting_artist,john constable|thomas gainsborough
+86910.jpg,drop,exact_duplicate_group_conflicting_artist,john constable|thomas gainsborough
+9729.jpg,drop,near_duplicate_of,89002.jpg
+1672.jpg,drop,near_duplicate_of,64470.jpg
+94724.jpg,drop,near_duplicate_of,76571.jpg
+76571.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|landscape
+43814.jpg,drop,exact_duplicate_of,10220.jpg
+9519.jpg,drop,near_duplicate_of,29252.jpg
+23922.jpg,drop,near_duplicate_group_conflicting_artist,jacopo bassano|titian
+91520.jpg,drop,near_duplicate_group_conflicting_artist,jacopo bassano|titian
+2379.jpg,drop,exact_duplicate_of,13738.jpg
+84247.jpg,drop,exact_duplicate_of,35145.jpg
+35145.jpg,modify,exact_duplicate_group_conflicting_genre,mythological painting|portrait
+75167.jpg,drop,near_duplicate_of,53453.jpg
+60398.jpg,drop,near_duplicate_of,6470.jpg
+19946.jpg,drop,exact_duplicate_of,17550.jpg
+42991.jpg,drop,near_duplicate_group_conflicting_artist,grigoriy myasoyedov|ilya repin
+8986.jpg,drop,near_duplicate_group_conflicting_artist,grigoriy myasoyedov|ilya repin
+89746.jpg,drop,exact_duplicate_of,8167.jpg
+13402.jpg,drop,near_duplicate_group_conflicting_artist,john james audubon|vasily vereshchagin
+14105.jpg,drop,near_duplicate_group_conflicting_artist,john james audubon|vasily vereshchagin
+79716.jpg,drop,exact_duplicate_of,59851.jpg
+73843.jpg,drop,near_duplicate_of,54502.jpg
+3992.jpg,drop,near_duplicate_of,45715.jpg
+37268.jpg,drop,near_duplicate_of,25067.jpg
+81122.jpg,drop,near_duplicate_of,25067.jpg
+89486.jpg,drop,near_duplicate_of,8540.jpg
+87484.jpg,drop,near_duplicate_of,40138.jpg
+74339.jpg,drop,near_duplicate_of,65730.jpg
+16009.jpg,drop,near_duplicate_of,65730.jpg
+8583.jpg,drop,near_duplicate_of,65730.jpg
+42176.jpg,drop,near_duplicate_of,26137.jpg
+69875.jpg,drop,near_duplicate_of,21234.jpg
+63477.jpg,drop,exact_duplicate_of,21038.jpg
+52044.jpg,drop,near_duplicate_of,35014.jpg
+4906.jpg,drop,near_duplicate_group_conflicting_artist,ivan kramskoy|joshua reynolds
+11531.jpg,drop,near_duplicate_group_conflicting_artist,ivan kramskoy|joshua reynolds
+3821.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|lucian grigorescu
+91477.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|lucian grigorescu
+45578.jpg,drop,exact_duplicate_of,40447.jpg
+31841.jpg,drop,exact_duplicate_of,102295.jpg
+67282.jpg,drop,exact_duplicate_of,102295.jpg
+85706.jpg,drop,exact_duplicate_of,102295.jpg
+90220.jpg,drop,exact_duplicate_of,102295.jpg
+81038.jpg,drop,exact_duplicate_of,44879.jpg
+66849.jpg,drop,near_duplicate_of,102886.jpg
+27737.jpg,drop,exact_duplicate_of,134.jpg
+28512.jpg,drop,exact_duplicate_of,134.jpg
+134.jpg,modify,exact_duplicate_group_conflicting_genre,cityscape|landscape
+70965.jpg,drop,exact_duplicate_of,101160.jpg
+86452.jpg,drop,near_duplicate_of,52440.jpg
+65426.jpg,drop,near_duplicate_of,48074.jpg
+34716.jpg,drop,near_duplicate_group_conflicting_artist,ilya repin|vladimir makovsky
+25975.jpg,drop,near_duplicate_group_conflicting_artist,ilya repin|vladimir makovsky
+67695.jpg,drop,near_duplicate_of,42250.jpg
+34781.jpg,drop,near_duplicate_of,48645.jpg
+48478.jpg,drop,near_duplicate_of,33651.jpg
+27115.jpg,drop,near_duplicate_of,4758.jpg
+44441.jpg,drop,near_duplicate_of,95942.jpg
+59843.jpg,drop,exact_duplicate_of,23168.jpg
+91162.jpg,drop,exact_duplicate_of,100118.jpg
+67518.jpg,drop,near_duplicate_of,62007.jpg
+33925.jpg,drop,near_duplicate_of,98816.jpg
+29637.jpg,drop,near_duplicate_of,64134.jpg
+88541.jpg,drop,exact_duplicate_of,47152.jpg
+59383.jpg,drop,near_duplicate_of,94912.jpg
+34272.jpg,drop,exact_duplicate_of,22088.jpg
+22899.jpg,drop,exact_duplicate_of,100569.jpg
+100569.jpg,modify,exact_duplicate_group_conflicting_genre,battle painting|mythological painting
+1658.jpg,drop,near_duplicate_of,64126.jpg
+64126.jpg,modify,near_duplicate_group_conflicting_genre,literary painting|sketch and study
+50038.jpg,drop,near_duplicate_of,6071.jpg
+97145.jpg,drop,near_duplicate_of,100887.jpg
+7241.jpg,drop,near_duplicate_of,38696.jpg
+88673.jpg,drop,near_duplicate_of,59911.jpg
+32049.jpg,drop,near_duplicate_of,8231.jpg
+8231.jpg,modify,near_duplicate_group_conflicting_genre,portrait|sketch and study
+59644.jpg,drop,near_duplicate_of,72055.jpg
+78838.jpg,drop,near_duplicate_of,60882.jpg
+54760.jpg,drop,exact_duplicate_of,48009.jpg
+83186.jpg,drop,exact_duplicate_of,51242.jpg
+91108.jpg,drop,near_duplicate_group_conflicting_artist,george romney|robert henri
+43545.jpg,drop,near_duplicate_group_conflicting_artist,george romney|robert henri
+6237.jpg,drop,near_duplicate_of,18078.jpg
+20855.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|lucian grigorescu
+71870.jpg,drop,exact_duplicate_group_conflicting_artist,jean alexandru steriadi|lucian grigorescu
+43622.jpg,drop,near_duplicate_of,10195.jpg
+89432.jpg,drop,exact_duplicate_of,47975.jpg
+36908.jpg,drop,near_duplicate_group_conflicting_artist,camille corot|thomas cole
+13850.jpg,drop,near_duplicate_group_conflicting_artist,camille corot|thomas cole
+28639.jpg,drop,exact_duplicate_of,21325.jpg
+91430.jpg,drop,near_duplicate_of,68845.jpg
+24753.jpg,drop,near_duplicate_of,45937.jpg
+92405.jpg,drop,exact_duplicate_of,89857.jpg
+93148.jpg,drop,exact_duplicate_of,62840.jpg
+76887.jpg,drop,near_duplicate_of,15370.jpg
+65310.jpg,drop,near_duplicate_of,86608.jpg
+86608.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|marina
+61657.jpg,drop,exact_duplicate_of,40744.jpg
+83496.jpg,drop,near_duplicate_of,21628.jpg
+78609.jpg,drop,exact_duplicate_of,29208.jpg
+77520.jpg,drop,near_duplicate_of,25307.jpg
+58647.jpg,drop,exact_duplicate_of,25464.jpg
+6868.jpg,drop,near_duplicate_of,12956.jpg
+85954.jpg,drop,exact_duplicate_of,49808.jpg
+21142.jpg,drop,near_duplicate_of,80259.jpg
+73196.jpg,drop,exact_duplicate_of,39854.jpg
+37526.jpg,drop,exact_duplicate_of,16014.jpg
+54742.jpg,drop,near_duplicate_of,72828.jpg
+50727.jpg,drop,exact_duplicate_of,43749.jpg
+103033.jpg,drop,near_duplicate_group_conflicting_artist,ilya repin|mary cassatt
+50884.jpg,drop,near_duplicate_group_conflicting_artist,ilya repin|mary cassatt
+23013.jpg,drop,exact_duplicate_of,22915.jpg
+83296.jpg,drop,exact_duplicate_of,70959.jpg
+65315.jpg,drop,exact_duplicate_of,27203.jpg
+43252.jpg,drop,exact_duplicate_of,21143.jpg
+32742.jpg,drop,near_duplicate_of,39708.jpg
+92049.jpg,drop,near_duplicate_of,42742.jpg
+75717.jpg,drop,exact_duplicate_of,16085.jpg
+76326.jpg,drop,exact_duplicate_of,101776.jpg
+22322.jpg,drop,near_duplicate_of,93734.jpg
+87155.jpg,drop,exact_duplicate_of,59123.jpg
+87613.jpg,drop,near_duplicate_of,84214.jpg
+84214.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|landscape
+8674.jpg,drop,exact_duplicate_of,85949.jpg
+41042.jpg,drop,near_duplicate_of,64230.jpg
+64230.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|sketch and study
+4792.jpg,drop,exact_duplicate_of,40350.jpg
+4211.jpg,drop,near_duplicate_of,2465.jpg
+74602.jpg,drop,near_duplicate_of,72703.jpg
+50447.jpg,drop,near_duplicate_of,57758.jpg
+43740.jpg,drop,exact_duplicate_of,35403.jpg
+35403.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|portrait
+70552.jpg,drop,exact_duplicate_of,35362.jpg
+98237.jpg,drop,near_duplicate_of,90855.jpg
+90855.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|marina
+62313.jpg,drop,exact_duplicate_of,35867.jpg
+19448.jpg,drop,exact_duplicate_group_conflicting_artist,georges seurat|paul signac
+69044.jpg,drop,exact_duplicate_group_conflicting_artist,georges seurat|paul signac
+9579.jpg,drop,near_duplicate_group_conflicting_artist,george romney|walter sickert
+91404.jpg,drop,near_duplicate_group_conflicting_artist,george romney|walter sickert
+26515.jpg,drop,near_duplicate_of,7811.jpg
+22750.jpg,drop,near_duplicate_of,15843.jpg
+46826.jpg,drop,near_duplicate_of,35165.jpg
+38805.jpg,drop,near_duplicate_of,10037.jpg
+1405.jpg,drop,near_duplicate_group_conflicting_artist,john simpson|thomas lawrence
+61161.jpg,drop,near_duplicate_group_conflicting_artist,john simpson|thomas lawrence
+75450.jpg,drop,near_duplicate_of,70346.jpg
+1197.jpg,drop,near_duplicate_of,2630.jpg
+65863.jpg,drop,exact_duplicate_of,24400.jpg
+98686.jpg,drop,near_duplicate_group_conflicting_artist,henri-edmond cross|theo van rysselberghe
+92902.jpg,drop,near_duplicate_group_conflicting_artist,henri-edmond cross|theo van rysselberghe
+84253.jpg,drop,near_duplicate_of,73125.jpg
+42123.jpg,drop,near_duplicate_of,102121.jpg
+79766.jpg,drop,exact_duplicate_of,45926.jpg
+45926.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|portrait
+54726.jpg,drop,near_duplicate_of,4653.jpg
+4653.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|marina
+94666.jpg,drop,exact_duplicate_of,80806.jpg
+95286.jpg,drop,exact_duplicate_of,79329.jpg
+32281.jpg,drop,near_duplicate_of,95778.jpg
+20362.jpg,drop,exact_duplicate_of,12413.jpg
+45676.jpg,drop,exact_duplicate_of,43306.jpg
+89009.jpg,drop,exact_duplicate_of,11728.jpg
+11728.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|portrait
+45552.jpg,drop,exact_duplicate_of,14524.jpg
+54321.jpg,drop,near_duplicate_of,15949.jpg
+15949.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|symbolic painting
+59120.jpg,drop,exact_duplicate_of,45390.jpg
+99014.jpg,drop,near_duplicate_of,44408.jpg
+59784.jpg,drop,exact_duplicate_of,31691.jpg
+31691.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|portrait
+85306.jpg,drop,near_duplicate_of,81415.jpg
+61988.jpg,drop,near_duplicate_of,23742.jpg
+96601.jpg,drop,near_duplicate_of,26178.jpg
+17759.jpg,drop,near_duplicate_of,14604.jpg
+74521.jpg,drop,near_duplicate_of,22006.jpg
+89438.jpg,drop,exact_duplicate_of,59773.jpg
+86434.jpg,drop,near_duplicate_of,33293.jpg
+88009.jpg,drop,near_duplicate_of,22381.jpg
+46657.jpg,drop,near_duplicate_of,100716.jpg
+7120.jpg,drop,exact_duplicate_group_conflicting_artist,frederic leighton|james tissot
+95418.jpg,drop,exact_duplicate_group_conflicting_artist,frederic leighton|james tissot
+79153.jpg,drop,near_duplicate_of,69782.jpg
+37675.jpg,drop,near_duplicate_of,13138.jpg
+30440.jpg,drop,near_duplicate_group_conflicting_artist,bernardo bellotto|canaletto
+95876.jpg,drop,near_duplicate_group_conflicting_artist,bernardo bellotto|canaletto
+70168.jpg,drop,exact_duplicate_of,51533.jpg
+2292.jpg,drop,near_duplicate_of,45328.jpg
+96453.jpg,drop,near_duplicate_of,29516.jpg
+89558.jpg,drop,near_duplicate_of,102614.jpg
+97053.jpg,drop,near_duplicate_of,13654.jpg
+20987.jpg,drop,near_duplicate_of,77239.jpg
+80349.jpg,drop,exact_duplicate_of,77464.jpg
+71817.jpg,drop,near_duplicate_of,86563.jpg
+86563.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|landscape
+77987.jpg,drop,near_duplicate_of,70516.jpg
+31539.jpg,drop,exact_duplicate_of,3059.jpg
+31202.jpg,drop,near_duplicate_of,2781.jpg
+76411.jpg,drop,near_duplicate_of,2781.jpg
+41840.jpg,drop,near_duplicate_of,33993.jpg
+33993.jpg,modify,near_duplicate_group_conflicting_genre,marina|symbolic painting
+6557.jpg,drop,near_duplicate_of,64417.jpg
+69911.jpg,drop,near_duplicate_of,70345.jpg
+42861.jpg,drop,exact_duplicate_of,36506.jpg
+102781.jpg,drop,near_duplicate_of,85318.jpg
+43654.jpg,drop,near_duplicate_of,32496.jpg
+43982.jpg,drop,near_duplicate_group_conflicting_artist,georges de la tour|john jackson
+5684.jpg,drop,near_duplicate_group_conflicting_artist,georges de la tour|john jackson
+95443.jpg,drop,exact_duplicate_of,42992.jpg
+38883.jpg,drop,exact_duplicate_of,35196.jpg
+70602.jpg,drop,exact_duplicate_of,31334.jpg
+31334.jpg,modify,exact_duplicate_group_conflicting_genre,cityscape|portrait
+95122.jpg,drop,exact_duplicate_of,8748.jpg
+3225.jpg,drop,near_duplicate_of,10644.jpg
+86752.jpg,drop,exact_duplicate_of,20500.jpg
+51259.jpg,drop,near_duplicate_of,58175.jpg
+24413.jpg,drop,exact_duplicate_group_conflicting_artist,hiroshige|utagawa kunisada
+46750.jpg,drop,exact_duplicate_group_conflicting_artist,hiroshige|utagawa kunisada
+32986.jpg,drop,near_duplicate_of,7381.jpg
+70735.jpg,drop,near_duplicate_of,58695.jpg
+7196.jpg,drop,exact_duplicate_of,22928.jpg
+92300.jpg,drop,exact_duplicate_of,22928.jpg
+22928.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|landscape
+99570.jpg,drop,near_duplicate_of,13236.jpg
+99411.jpg,drop,exact_duplicate_of,78942.jpg
+33878.jpg,drop,exact_duplicate_of,21184.jpg
+43077.jpg,drop,exact_duplicate_of,21184.jpg
+21184.jpg,modify,exact_duplicate_group_conflicting_genre,genre painting|landscape
+63778.jpg,drop,exact_duplicate_of,19396.jpg
+85395.jpg,drop,exact_duplicate_of,19396.jpg
+27163.jpg,drop,near_duplicate_of,62290.jpg
+81842.jpg,drop,exact_duplicate_of,11282.jpg
+42571.jpg,drop,exact_duplicate_of,28756.jpg
+71183.jpg,drop,near_duplicate_group_conflicting_artist,bernardo bellotto|canaletto
+60403.jpg,drop,near_duplicate_group_conflicting_artist,bernardo bellotto|canaletto
+15183.jpg,drop,exact_duplicate_of,102601.jpg
+92364.jpg,drop,exact_duplicate_of,90735.jpg
+49826.jpg,drop,near_duplicate_group_conflicting_artist,filippo lippi|sandro botticelli
+60115.jpg,drop,near_duplicate_group_conflicting_artist,filippo lippi|sandro botticelli
+21917.jpg,drop,near_duplicate_of,20158.jpg
+25437.jpg,drop,exact_duplicate_of,19948.jpg
+19948.jpg,modify,exact_duplicate_group_conflicting_genre,portrait|sketch and study
+37343.jpg,drop,exact_duplicate_of,19015.jpg
+83190.jpg,drop,exact_duplicate_of,7479.jpg
+7479.jpg,modify,exact_duplicate_group_conflicting_genre,cityscape|genre painting
+76655.jpg,drop,near_duplicate_group_conflicting_artist,francisco de zurbaran|georges de la tour
+86399.jpg,drop,near_duplicate_group_conflicting_artist,francisco de zurbaran|georges de la tour
+70315.jpg,drop,exact_duplicate_of,45645.jpg
+45645.jpg,modify,exact_duplicate_group_conflicting_genre,abstract|marina
+35769.jpg,drop,exact_duplicate_of,32841.jpg
+48101.jpg,drop,near_duplicate_of,34752.jpg
+86404.jpg,drop,exact_duplicate_group_conflicting_artist,jean-paul riopelle|wolfgang paalen
+21716.jpg,drop,exact_duplicate_group_conflicting_artist,jean-paul riopelle|wolfgang paalen
+56846.jpg,drop,exact_duplicate_of,49457.jpg
+98758.jpg,drop,near_duplicate_of,101565.jpg
+51007.jpg,drop,near_duplicate_group_conflicting_artist,george romney|thomas gainsborough
+27745.jpg,drop,near_duplicate_group_conflicting_artist,george romney|thomas gainsborough
+75828.jpg,drop,near_duplicate_of,92490.jpg
+94714.jpg,drop,near_duplicate_group_conflicting_artist,emilio scanavino|john james audubon
+40234.jpg,drop,near_duplicate_group_conflicting_artist,emilio scanavino|john james audubon
+50127.jpg,drop,exact_duplicate_of,48224.jpg
+47602.jpg,drop,near_duplicate_of,84146.jpg
+8097.jpg,drop,near_duplicate_of,55005.jpg
+86343.jpg,drop,near_duplicate_of,50847.jpg
+46879.jpg,drop,exact_duplicate_of,16273.jpg
+85792.jpg,drop,exact_duplicate_of,16273.jpg
+51372.jpg,drop,exact_duplicate_of,51274.jpg
+75379.jpg,drop,exact_duplicate_of,51274.jpg
+81914.jpg,drop,exact_duplicate_of,51274.jpg
+4100.jpg,drop,exact_duplicate_group_conflicting_artist,luca signorelli|pinturicchio
+77534.jpg,drop,exact_duplicate_group_conflicting_artist,luca signorelli|pinturicchio
+36338.jpg,drop,exact_duplicate_of,29575.jpg
+73115.jpg,drop,near_duplicate_of,31871.jpg
+18189.jpg,drop,near_duplicate_group_conflicting_artist,joshua reynolds|thomas gainsborough
+24234.jpg,drop,near_duplicate_group_conflicting_artist,joshua reynolds|thomas gainsborough
+34806.jpg,drop,near_duplicate_of,15940.jpg
+15940.jpg,modify,near_duplicate_group_conflicting_genre,figurative|still life
+79506.jpg,drop,exact_duplicate_of,2205.jpg
+50438.jpg,drop,exact_duplicate_of,17506.jpg
+56998.jpg,drop,near_duplicate_of,14861.jpg
+57512.jpg,drop,exact_duplicate_of,103067.jpg
+4776.jpg,drop,exact_duplicate_of,17643.jpg
+94152.jpg,drop,exact_duplicate_of,79621.jpg
+36200.jpg,drop,exact_duplicate_of,18082.jpg
+85160.jpg,drop,near_duplicate_of,10564.jpg
+10564.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|portrait
+52381.jpg,drop,exact_duplicate_of,43385.jpg
+8160.jpg,drop,exact_duplicate_of,62829.jpg
+46002.jpg,drop,exact_duplicate_of,2892.jpg
+94422.jpg,drop,exact_duplicate_of,70377.jpg
+5723.jpg,drop,near_duplicate_group_conflicting_artist,john lewis krimmel|pavel svinyin
+70797.jpg,drop,near_duplicate_group_conflicting_artist,john lewis krimmel|pavel svinyin
+29148.jpg,drop,exact_duplicate_of,17745.jpg
+66877.jpg,drop,exact_duplicate_of,55986.jpg
+84889.jpg,drop,exact_duplicate_of,59793.jpg
+79855.jpg,drop,exact_duplicate_of,78063.jpg
+77741.jpg,drop,exact_duplicate_of,65484.jpg
+6884.jpg,drop,near_duplicate_of,29604.jpg
+99568.jpg,drop,exact_duplicate_of,10567.jpg
+58590.jpg,drop,exact_duplicate_of,4078.jpg
+31723.jpg,drop,exact_duplicate_of,26122.jpg
+31678.jpg,drop,exact_duplicate_of,28704.jpg
+90332.jpg,drop,exact_duplicate_of,39994.jpg
+80647.jpg,drop,near_duplicate_of,22020.jpg
+33122.jpg,drop,near_duplicate_of,12557.jpg
+89154.jpg,drop,exact_duplicate_of,43839.jpg
+75997.jpg,drop,near_duplicate_of,74496.jpg
+46304.jpg,drop,exact_duplicate_of,29818.jpg
+60496.jpg,drop,exact_duplicate_of,51568.jpg
+38580.jpg,drop,near_duplicate_of,82174.jpg
+13479.jpg,drop,near_duplicate_group_conflicting_artist,thomas couture|vasily perov
+59084.jpg,drop,near_duplicate_group_conflicting_artist,thomas couture|vasily perov
+85284.jpg,drop,exact_duplicate_of,74736.jpg
+90717.jpg,drop,exact_duplicate_of,48812.jpg
+9367.jpg,drop,exact_duplicate_of,92017.jpg
+75615.jpg,drop,exact_duplicate_of,23996.jpg
+69328.jpg,drop,near_duplicate_of,34464.jpg
+14786.jpg,drop,near_duplicate_group_conflicting_artist,edwin henry landseer|franz xaver winterhalter
+82242.jpg,drop,near_duplicate_group_conflicting_artist,edwin henry landseer|franz xaver winterhalter
+84674.jpg,drop,near_duplicate_of,42171.jpg
+2569.jpg,drop,near_duplicate_of,20441.jpg
+68488.jpg,drop,near_duplicate_of,12991.jpg
+28551.jpg,drop,near_duplicate_of,13534.jpg
+79735.jpg,drop,near_duplicate_of,13534.jpg
+78711.jpg,drop,near_duplicate_of,12242.jpg
+61529.jpg,drop,exact_duplicate_of,20333.jpg
+24283.jpg,drop,near_duplicate_of,91868.jpg
+5061.jpg,drop,near_duplicate_of,91868.jpg
+91868.jpg,modify,near_duplicate_group_conflicting_genre,genre painting|sketch and study
+55470.jpg,drop,exact_duplicate_of,12412.jpg
+80445.jpg,drop,exact_duplicate_of,40747.jpg
+51174.jpg,drop,exact_duplicate_of,47963.jpg
+77050.jpg,drop,exact_duplicate_of,74714.jpg
+74714.jpg,modify,exact_duplicate_group_conflicting_genre,religious painting|sketch and study
+72534.jpg,drop,near_duplicate_of,49308.jpg
+31931.jpg,drop,exact_duplicate_of,27130.jpg
+48363.jpg,drop,near_duplicate_of,37263.jpg
+68085.jpg,drop,exact_duplicate_of,35348.jpg
+82423.jpg,drop,exact_duplicate_of,5882.jpg
+60818.jpg,drop,exact_duplicate_of,49161.jpg
+23260.jpg,drop,exact_duplicate_of,13423.jpg
+13423.jpg,modify,exact_duplicate_group_conflicting_genre,nude painting (nu)|sketch and study
+85941.jpg,drop,near_duplicate_of,84011.jpg
+88516.jpg,drop,near_duplicate_group_conflicting_artist,john everett millais|william holman hunt
+41031.jpg,drop,near_duplicate_group_conflicting_artist,john everett millais|william holman hunt
+24766.jpg,drop,exact_duplicate_of,101747.jpg
+44814.jpg,drop,exact_duplicate_of,10199.jpg
+10199.jpg,modify,exact_duplicate_group_conflicting_genre,religious painting|sketch and study
+8958.jpg,drop,near_duplicate_of,35599.jpg
+57669.jpg,drop,near_duplicate_of,36489.jpg
+20222.jpg,drop,exact_duplicate_of,18035.jpg
+98231.jpg,drop,exact_duplicate_of,18035.jpg
+51314.jpg,drop,exact_duplicate_of,33287.jpg
+89671.jpg,drop,near_duplicate_of,41390.jpg
+41390.jpg,modify,near_duplicate_group_conflicting_genre,cityscape|landscape
+18939.jpg,drop,near_duplicate_of,101473.jpg
+81581.jpg,drop,near_duplicate_of,15084.jpg
+40250.jpg,drop,near_duplicate_of,499.jpg
+11466.jpg,drop,near_duplicate_of,68901.jpg
+68901.jpg,modify,near_duplicate_group_conflicting_genre,mythological painting|symbolic painting
+56829.jpg,drop,near_duplicate_of,95552.jpg
+68431.jpg,drop,near_duplicate_of,41644.jpg
+10094.jpg,drop,near_duplicate_group_conflicting_artist,carlo carra|gino severini
+25559.jpg,drop,near_duplicate_group_conflicting_artist,carlo carra|gino severini
+44630.jpg,drop,near_duplicate_of,35657.jpg
+102213.jpg,drop,near_duplicate_of,101357.jpg
+101357.jpg,modify,near_duplicate_group_conflicting_genre,history painting|religious painting
+53193.jpg,drop,near_duplicate_of,46790.jpg
+94028.jpg,drop,near_duplicate_of,93152.jpg
+102682.jpg,drop,near_duplicate_of,82991.jpg
+8776.jpg,drop,near_duplicate_group_conflicting_artist,jean-francois millet|john singer sargent
+82730.jpg,drop,near_duplicate_group_conflicting_artist,jean-francois millet|john singer sargent
+66720.jpg,drop,near_duplicate_of,43241.jpg
+46057.jpg,drop,near_duplicate_of,40273.jpg
+38343.jpg,drop,near_duplicate_of,87113.jpg
+99267.jpg,drop,exact_duplicate_of,31874.jpg
+58122.jpg,drop,near_duplicate_of,15269.jpg
+76497.jpg,drop,near_duplicate_of,50163.jpg
+72135.jpg,drop,near_duplicate_of,68966.jpg
+40963.jpg,drop,near_duplicate_of,38543.jpg
+89284.jpg,drop,near_duplicate_of,55002.jpg
+90471.jpg,drop,exact_duplicate_of,43473.jpg
+43473.jpg,modify,exact_duplicate_group_conflicting_genre,abstract|portrait
+39211.jpg,drop,exact_duplicate_of,32786.jpg
+6160.jpg,drop,exact_duplicate_of,59518.jpg
+94416.jpg,drop,exact_duplicate_of,86089.jpg
+41286.jpg,drop,near_duplicate_of,22024.jpg
+79914.jpg,drop,near_duplicate_of,65900.jpg
+14248.jpg,drop,near_duplicate_of,89259.jpg
+33629.jpg,drop,near_duplicate_group_conflicting_artist,anthony van dyck|peter paul rubens
+10928.jpg,drop,near_duplicate_group_conflicting_artist,anthony van dyck|peter paul rubens
+31024.jpg,drop,near_duplicate_of,93479.jpg
+56439.jpg,drop,near_duplicate_of,52962.jpg
+79798.jpg,drop,exact_duplicate_of,22979.jpg
+69471.jpg,drop,near_duplicate_of,39955.jpg
+93828.jpg,drop,exact_duplicate_of,93390.jpg
+50850.jpg,drop,near_duplicate_of,49190.jpg
+35852.jpg,drop,near_duplicate_group_conflicting_artist,pierre-narcisse guerin|theodore gericault
+89711.jpg,drop,near_duplicate_group_conflicting_artist,pierre-narcisse guerin|theodore gericault
+66170.jpg,drop,exact_duplicate_of,25499.jpg
+96918.jpg,drop,exact_duplicate_of,4728.jpg
+88675.jpg,drop,exact_duplicate_of,67836.jpg
+9821.jpg,drop,near_duplicate_of,22758.jpg

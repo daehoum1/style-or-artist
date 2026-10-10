@@ -1,0 +1,13 @@
+name: wikiart
+adapter: wikiart
+root: data/wikiart   # path to the WikiArt (ArtGAN) folder; relative to the project root
+# ArtGAN/huggan-style label file: file,artist,genre,style with global integer ids
+# (artist 0-128, genre 129-139, style 140-166). Verified in the audit:
+#   style id == 140 + index of the sorted style folder (100% agreement)
+#   genre id 139 == unlabeled ("Unknown Genre"); 129..138 follow the ArtGAN genre_class order
+#   artist id 0 == unlabeled bucket (41,914 images) -> artist is taken from the filename slug instead
+label_file: wclasses.csv
+genre_id_offset: 129
+genre_names: [abstract_painting, cityscape, genre_painting, illustration, landscape,
+              nude_painting, portrait, religious_painting, sketch_and_study, still_life, null]
+artist_source: filename_slug

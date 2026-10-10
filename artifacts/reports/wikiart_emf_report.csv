@@ -1,0 +1,11 @@
+seed,n_test,n_test_artists,n_train,n_addon,addon_artists_AG,n_styles,excluded,emf_G_genre_matched_share
+0,4543,174,31311,3278,174,18,"{""contemporary realism"": ""test=18<20"", ""high renaissance"": ""AT=49, BB=746, k=56""}",0.9588163514338011
+1,3373,150,33199,2640,150,15,"{""contemporary realism"": ""test=18<20"", ""high renaissance"": ""AT=45, BB=760, k=57"", ""mannerism late renaissance"": ""test=15<20"", ""northern renaissance"": ""test=15<20"", ""pointillism"": ""test=14<20""}",0.9511363636363637
+2,4491,188,30570,2695,188,18,"{""contemporary realism"": ""test=3<20"", ""early renaissance"": ""test=17<20""}",0.9955473098330241
+3,3798,142,32049,2677,142,17,"{""contemporary realism"": ""AT=3, BB=179, k=24"", ""fauvism"": ""test=15<20"", ""pop art"": ""AT=11, BB=391, k=26""}",0.9559208068733657
+4,4907,154,28734,2578,154,14,"{""contemporary realism"": ""test=8<20"", ""high renaissance"": ""AT=34, BB=771, k=52"", ""mannerism late renaissance"": ""test=17<20"", ""northern renaissance"": ""test=17<20"", ""pointillism"": ""test=13<20"", ""ukiyo e"": ""AT=52, BB=490, k=56""}",0.9166020170674942
+5,4283,169,30051,3064,169,17,"{""contemporary realism"": ""test=19<20"", ""high renaissance"": ""AT=45, BB=764, k=56"", ""northern renaissance"": ""test=17<20""}",0.9079634464751958
+6,4431,172,31499,3174,172,18,"{""contemporary realism"": ""test=18<20"", ""high renaissance"": ""AT=52, BB=766, k=54""}",0.9584120982986768
+7,3093,165,38593,1984,165,18,"{""contemporary realism"": ""test=17<20"", ""pop art"": ""test=4<20""}",1.0
+8,2566,134,38561,1187,134,18,"{""pointillism"": ""test=16<20"", ""ukiyo e"": ""AT=23, BB=432, k=25""}",0.8820556023588879
+9,4642,149,33534,3115,149,19,"{""pop art"": ""test=16<20""}",0.9752808988764045

@@ -1,0 +1,28 @@
+style,n_images,n_artists,n_missing_artist,n_genres,n_missing_genre,top_genre_share
+impressionism,12783,227,0,9,1336,0.379
+realism,10488,176,0,9,1272,0.297
+romanticism,6859,104,0,9,1639,0.3
+post impressionism,6256,181,0,10,799,0.297
+expressionism,6247,235,0,10,1349,0.34
+symbolism,4149,84,0,10,1225,0.368
+art nouveau modern,4148,78,0,9,1601,0.251
+baroque,4148,71,0,10,816,0.307
+abstract expressionism,2563,140,0,10,282,0.962
+northern renaissance,2534,26,0,9,381,0.594
+naive art primitivism,2294,65,0,10,566,0.316
+rococo,2054,30,0,9,402,0.601
+cubism,1994,134,0,10,464,0.235
+color field painting,1486,97,0,2,54,0.998
+pop art,1445,76,0,10,903,0.417
+early renaissance,1384,24,0,7,77,0.836
+high renaissance,1325,18,0,8,222,0.613
+mannerism late renaissance,1275,19,0,8,264,0.622
+minimalism,1251,109,0,2,420,0.996
+ukiyo e,1159,15,0,9,376,0.352
+fauvism,743,65,0,9,191,0.33
+pointillism,488,31,0,8,44,0.43
+contemporary realism,481,15,0,8,93,0.446
+new realism,313,6,0,7,33,0.357
+synthetic cubism,216,7,0,7,1,0.847
+analytical cubism,110,5,0,6,0,0.455
+action painting,85,7,0,1,0,1.0

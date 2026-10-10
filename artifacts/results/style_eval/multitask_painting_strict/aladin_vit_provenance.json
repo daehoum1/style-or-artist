@@ -1,0 +1,78 @@
+{
+ "encoder_config": {
+  "library": "DanRuta/ALADIN v1.0.0 (vendored)",
+  "input_resolution": 224,
+  "family": "art",
+  "lib": "aladin",
+  "arch": "ALADIN-ViT",
+  "pretrained": "DanRuta/ALADIN v1.0.0 aladinVIT_bamfg_64.47.pt",
+  "feature": "style_embed",
+  "n_params": 86323712,
+  "transform": "Compose(\n    Lambda()\n    Resize(size=(224, 224), interpolation=bilinear, max_size=None, antialias=True)\n    ToTensor()\n    Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5))\n)",
+  "dataset": "multitask_painting",
+  "encoder": "aladin_vit",
+  "n": 98954,
+  "dim": 256,
+  "torch": "2.11.0+cu128",
+  "python": "3.10.13",
+  "device": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+  "autocast": "fp16",
+  "jpeg_draft_px": 448,
+  "seconds": 90.2,
+  "norm_mean": 4.942324638366699
+ },
+ "evaluation_config": {
+  "primary_evaluator": "knn5",
+  "evaluators": {
+   "knn5": {
+    "type": "knn",
+    "k": 5
+   },
+   "knn_sel": {
+    "type": "knn",
+    "k_grid": [
+     1,
+     3,
+     5,
+     10,
+     20,
+     50
+    ]
+   },
+   "logreg": {
+    "type": "logreg",
+    "wd_grid": [
+     0.0001,
+     0.001,
+     0.01,
+     0.1
+    ],
+    "max_iter": 500
+   },
+   "ncc": {
+    "type": "ncc"
+   }
+  },
+  "metrics": [
+   "accuracy",
+   "balanced_accuracy",
+   "macro_f1"
+  ],
+  "probes": {
+   "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "test_fraction": 0.3,
+   "global_artist_min_images": 20,
+   "within_style_min_artists": 5,
+   "within_style_min_images_per_artist": 15,
+   "within_style_min_genres": 3,
+   "within_style_min_images_per_genre": 15,
+   "max_images_per_class": 200
+  }
+ }
+}

@@ -1,0 +1,15 @@
+# Frozen encoders. family: vl (vision-language), ssl (self-supervised), sup (supervised), art (style-specific)
+# feature: what is taken as the embedding (documented per entry); all are L2-normalized at evaluation time.
+clip_b16:      {family: vl,  lib: open_clip, arch: ViT-B-16, pretrained: openai, feature: image_embed}
+clip_l14:      {family: vl,  lib: open_clip, arch: ViT-L-14, pretrained: openai, feature: image_embed}
+openclip_b16:  {family: vl,  lib: open_clip, arch: ViT-B-16, pretrained: laion2b_s34b_b88k, feature: image_embed}
+siglip_b16:    {family: vl,  lib: open_clip, arch: "hf-hub:timm/ViT-B-16-SigLIP", pretrained: null, feature: image_embed}
+siglip_so400m: {family: vl,  lib: open_clip, arch: "hf-hub:timm/ViT-SO400M-14-SigLIP-384", pretrained: null, feature: image_embed}
+siglip2_l16:   {family: vl,  lib: open_clip, arch: "hf-hub:timm/ViT-L-16-SigLIP2-256", pretrained: null, feature: image_embed}
+dinov2_b14:    {family: ssl, lib: timm, arch: vit_base_patch14_dinov2.lvd142m, feature: cls_token}
+dinov2_l14:    {family: ssl, lib: timm, arch: vit_large_patch14_dinov2.lvd142m, feature: cls_token}
+dinov3_b16:    {family: ssl, lib: timm, arch: vit_base_patch16_dinov3.lvd1689m, feature: cls_token}
+mae_b16:       {family: ssl, lib: timm, arch: vit_base_patch16_224.mae, feature: mean_patch_tokens}
+vit_b16_in21k: {family: sup, lib: timm, arch: vit_base_patch16_224.augreg2_in21k_ft_in1k, feature: cls_token_prelogits}
+csd_l14:       {family: art, lib: csd, arch: ViT-L-14, pretrained: "tomg-group-umd/CSD-ViT-L", feature: style_embed}
+aladin_vit:    {family: art, lib: aladin, arch: ALADIN-ViT, pretrained: "DanRuta/ALADIN v1.0.0 aladinVIT_bamfg_64.47.pt", feature: style_embed}

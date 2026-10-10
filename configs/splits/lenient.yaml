@@ -1,0 +1,32 @@
+# Sensitivity variant of default.yaml (minimum-support thresholds); 5 seeds
+seeds:
+- 0
+- 1
+- 2
+- 3
+- 4
+test_fraction: 0.2
+val_fraction: 0.1
+val_artist_fraction: 0.15
+support:
+  min_images_per_style: 50
+  min_artists_per_style: 5
+  max_top_genre_share: 0.95
+  min_train_per_style: 20
+  min_test_per_style: 10
+  min_train_artists_per_style: 2
+  min_test_artists_per_style: 2
+genre_holdout:
+  test_share_range:
+  - 0.15
+  - 0.4
+  slack: 2.0
+  max_exhaustive: 12
+  n_samples: 200000
+  sample_seed: 0
+  min_candidates: 10
+optimizer:
+  restarts: 8
+  sweeps: 25
+  w_violation: 10.0
+  w_fraction: 2.0

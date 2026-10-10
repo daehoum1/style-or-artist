@@ -1,0 +1,30 @@
+# Split protocol configuration. All thresholds are metadata-only and fixed BEFORE any model evaluation.
+seeds: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+test_fraction: 0.20          # target share of each style's retained images on the test side
+val_fraction: 0.10           # IID: share of the train side used for model selection
+val_artist_fraction: 0.15    # artist-grouped validation: share of train-side artists held out
+support:
+  # core style set (controlled pool = style, artist and genre all known)
+  min_images_per_style: 100
+  min_artists_per_style: 10
+  max_top_genre_share: 0.90          # genre-disjoint evaluation is undefined for (near) single-genre styles
+  # per split (applied to every protocol; a style failing in ANY protocol of a seed is dropped from all
+  # protocols of that seed, so the four protocols of a seed always evaluate the same style set)
+  min_train_per_style: 40
+  min_test_per_style: 20
+  min_train_artists_per_style: 3     # artist-disjoint protocols
+  min_test_artists_per_style: 3      # artist-disjoint protocols
+genre_holdout:
+  # candidate held-out genre sets: overall test share of the pool within [lo, hi] and every core style
+  # keeps >= slack * min support on both sides under the genre-only split; each seed draws one uniformly.
+  test_share_range: [0.15, 0.40]
+  slack: 2.0
+  max_exhaustive: 12       # more genres than this -> seeded random sample of subsets
+  n_samples: 200000
+  sample_seed: 0
+  min_candidates: 10       # otherwise drop the least feasible core style (metadata-only, recorded)
+optimizer:
+  restarts: 8
+  sweeps: 25
+  w_violation: 10.0
+  w_fraction: 2.0

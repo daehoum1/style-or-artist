@@ -1,0 +1,126 @@
+style,n_images,n_artists,n_missing_artist,n_genres,n_missing_genre,top_genre_share
+impressionism,10448,246,0,29,7,0.349
+realism,10384,209,0,30,3,0.271
+romanticism,9078,162,0,29,4,0.238
+expressionism,6837,285,0,32,5,0.249
+post-impressionism,5704,189,0,28,1,0.252
+art nouveau (modern),4752,105,0,30,1,0.238
+baroque,4307,84,0,29,5,0.259
+surrealism,3950,138,0,29,5,0.361
+symbolism,3440,94,0,28,3,0.174
+rococo,2665,46,0,26,3,0.53
+northern renaissance,2323,30,0,23,5,0.508
+naïve art (primitivism),2211,71,0,26,4,0.25
+neoclassicism,2004,49,0,26,2,0.347
+abstract expressionism,1973,122,0,23,0,0.857
+cubism,1649,147,0,27,3,0.195
+ukiyo-e,1344,16,0,23,3,0.274
+early renaissance,1328,22,0,18,0,0.809
+mannerism (late renaissance),1295,21,0,19,0,0.5
+high renaissance,1284,19,0,19,0,0.532
+art informel,1199,80,0,17,0,0.829
+academicism,956,51,0,17,1,0.273
+magic realism,932,18,0,23,1,0.496
+abstract art,932,94,0,13,0,0.944
+color field painting,894,58,0,2,0,0.996
+pop art,740,47,0,22,0,0.291
+fauvism,723,54,0,20,0,0.243
+lyrical abstraction,656,37,0,10,0,0.95
+art deco,642,15,0,18,1,0.406
+concretism,534,35,0,6,0,0.983
+neo-romanticism,531,6,0,21,0,0.232
+ink and wash painting,493,17,0,19,0,0.292
+pointillism,489,30,0,14,1,0.387
+op art,474,31,0,11,0,0.568
+tachisme,431,27,0,8,0,0.951
+naturalism,410,7,0,9,0,0.398
+minimalism,393,43,0,3,0,0.992
+orientalism,383,33,0,19,0,0.54
+luminism,382,6,0,10,1,0.824
+shin-hanga,376,12,0,15,0,0.207
+neo-expressionism,371,19,0,17,0,0.458
+hard edge painting,356,29,0,4,0,0.989
+sōsaku hanga,340,9,0,17,0,0.326
+divisionism,331,18,0,16,1,0.476
+new realism,326,7,0,15,1,0.338
+regionalism,317,7,0,17,0,0.678
+social realism,292,29,0,14,0,0.555
+futurism,277,20,0,19,1,0.246
+proto renaissance,271,2,0,2,0,0.948
+precisionism,266,7,0,18,0,0.248
+american realism,265,2,0,8,0,0.664
+orphism,244,10,0,16,0,0.311
+constructivism,236,28,0,13,0,0.419
+contemporary realism,235,8,0,14,0,0.485
+classicism,219,5,0,14,1,0.339
+tenebrism,215,9,0,11,0,0.614
+international gothic,195,3,0,6,0,0.759
+tonalism,191,10,0,15,0,0.539
+metaphysical art,189,18,0,17,0,0.233
+art brut,189,8,0,13,0,0.54
+synthetic cubism,187,8,0,7,0,0.882
+cloisonnism,171,13,0,16,0,0.427
+dada,168,26,0,15,0,0.446
+purism,156,8,0,15,0,0.269
+neoplasticism,154,10,0,7,0,0.727
+muralism,146,8,0,14,0,0.329
+post-painterly abstraction,144,7,0,1,0,1.0
+cubo-futurism,134,13,0,17,0,0.254
+biedermeier,130,2,0,7,0,0.823
+nouveau réalisme,129,9,0,7,0,0.721
+japonism,112,22,0,15,1,0.351
+intimism,109,3,0,7,0,0.376
+neo-baroque,105,2,0,15,0,0.181
+neo-dada,96,8,0,13,0,0.385
+neo-rococo,94,1,0,2,0,0.989
+action painting,91,6,0,1,0,1.0
+socialist realism,90,13,0,12,0,0.444
+analytical realism,89,1,0,8,0,0.326
+analytical cubism,87,5,0,6,0,0.494
+verism,84,7,0,8,0,0.524
+suprematism,78,6,0,9,0,0.436
+spatialism,78,10,0,2,0,0.987
+byzantine,77,4,0,2,0,0.896
+transautomatism,73,1,0,2,0,0.808
+conceptual art,71,17,0,6,0,0.451
+mechanistic cubism,68,1,0,5,1,0.537
+outsider art,67,4,0,9,0,0.433
+nanga (bunjinga),58,2,0,8,0,0.431
+photorealism,58,2,0,6,0,0.741
+romanesque,53,2,0,1,0,1.0
+synthetism,49,3,0,9,0,0.367
+hyper-realism,48,2,0,6,0,0.479
+kitsch,47,3,0,10,0,0.255
+modernismo,43,4,0,11,0,0.349
+poster art realism,43,2,0,5,0,0.721
+zen,41,5,0,5,0,0.707
+safavid period,39,4,0,2,0,0.718
+ottoman period,38,3,0,1,0,1.0
+mosan art,38,1,0,1,0,1.0
+automatic painting,37,10,0,6,0,0.838
+gongbi,37,2,0,9,0,0.514
+neo-concretism,32,4,0,2,0,0.938
+lettrism,32,3,0,4,0,0.656
+fantastic realism,31,2,0,10,0,0.258
+primitivism,27,1,0,4,0,0.63
+new european painting,25,1,0,3,0,0.6
+indian space painting,25,2,0,2,0,0.88
+street art,22,1,0,1,0,1.0
+native art,21,1,0,1,0,1.0
+tubism,21,2,0,7,0,0.476
+new casualism,20,1,0,3,0,0.85
+figurative expressionism,19,2,0,8,0,0.263
+neo-byzantine,18,2,0,3,0,0.889
+neo-figurative art,18,2,0,8,0,0.5
+feminist art,18,3,0,5,0,0.389
+existential art,17,2,0,6,0,0.412
+timurid period,16,1,0,1,0,1.0
+costumbrismo,14,2,0,2,0,0.786
+cubo-expressionism,13,7,0,8,0,0.308
+gothic,12,1,0,1,0,1.0
+yamato-e,12,1,0,3,0,0.417
+post-minimalism,11,4,0,2,0,0.818
+light and space,11,1,0,1,0,1.0
+nihonga,11,1,0,5,0,0.455
+synchromism,10,1,0,3,0,0.8
+joseon dynasty,10,1,0,3,0,0.4

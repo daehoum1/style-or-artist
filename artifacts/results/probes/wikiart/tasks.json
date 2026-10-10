@@ -1,0 +1,217 @@
+[
+ {
+  "probe": "style",
+  "style": null,
+  "n_rows": 58234
+ },
+ {
+  "probe": "artist",
+  "style": null,
+  "n_rows": 54718
+ },
+ {
+  "probe": "genre",
+  "style": null,
+  "n_rows": 58234
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "art nouveau modern",
+  "n_rows": 2378
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "art nouveau modern",
+  "n_rows": 2536
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "baroque",
+  "n_rows": 3142
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "baroque",
+  "n_rows": 3325
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "contemporary realism",
+  "n_rows": 339
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "contemporary realism",
+  "n_rows": 378
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "cubism",
+  "n_rows": 1089
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "cubism",
+  "n_rows": 1525
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "early renaissance",
+  "n_rows": 1271
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "early renaissance",
+  "n_rows": 1279
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "expressionism",
+  "n_rows": 4223
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "expressionism",
+  "n_rows": 4898
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "fauvism",
+  "n_rows": 363
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "fauvism",
+  "n_rows": 541
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "high renaissance",
+  "n_rows": 1076
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "high renaissance",
+  "n_rows": 1094
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "impressionism",
+  "n_rows": 10777
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "impressionism",
+  "n_rows": 11446
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "mannerism late renaissance",
+  "n_rows": 960
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "mannerism late renaissance",
+  "n_rows": 979
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "naive art primitivism",
+  "n_rows": 1556
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "naive art primitivism",
+  "n_rows": 1727
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "northern renaissance",
+  "n_rows": 2129
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "northern renaissance",
+  "n_rows": 2125
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "pointillism",
+  "n_rows": 378
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "pointillism",
+  "n_rows": 430
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "pop art",
+  "n_rows": 372
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "pop art",
+  "n_rows": 529
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "post impressionism",
+  "n_rows": 4702
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "post impressionism",
+  "n_rows": 5439
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "realism",
+  "n_rows": 8786
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "realism",
+  "n_rows": 9216
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "rococo",
+  "n_rows": 1618
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "rococo",
+  "n_rows": 1637
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "romanticism",
+  "n_rows": 4969
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "romanticism",
+  "n_rows": 5220
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "symbolism",
+  "n_rows": 2666
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "symbolism",
+  "n_rows": 2923
+ },
+ {
+  "probe": "within_style_artist",
+  "style": "ukiyo e",
+  "n_rows": 737
+ },
+ {
+  "probe": "within_style_genre",
+  "style": "ukiyo e",
+  "n_rows": 757
+ }
+]
